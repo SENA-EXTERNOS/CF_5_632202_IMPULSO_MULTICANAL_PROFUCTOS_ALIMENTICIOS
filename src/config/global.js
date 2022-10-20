@@ -3,7 +3,12 @@ export default {
     componenteFormativo: 'Acondicionamiento y condiciones de punto de venta',
     descripcionCurso:
       'En el momento de la compra son varios los factores determinantes que permiten su realización, que requieren pasar de exhibir un producto a generar una experiencia en el punto de venta, para lograrlo es necesario la implementación de estrategias que permitan al cliente vivir un momento especial, y lo más importante, que sea repetitivo, aumentando las ventas de la marca.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: [
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-princiapal-3.svg'),
+      },
+    ],
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal1.png'),
     imagenesDecorativasBanner: [
       {
@@ -175,31 +180,105 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Merchandising',
+      referencia:
+        'Avella J, Rojas M., 2017, evaluación de la respuesta sensorial en canastas elaboradas a partir de papel periódico en la tienda unilibrista, Universidad Libre',
+      tipo: 'Tesis',
+      link:
+        'https://repository.unilibre.edu.co/bitstream/handle/10901/17938/TESIS%20FINAL%20PARA%20OBTENER%20EL%20GRADO%20DE%20ADMINISTRACION%20DE%20EMPRESAS%20PDF.pdf?sequence=1 ',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Mobiliario Comercial',
+      referencia:
+        'Benthan E., Guzmán A.,2018, Mobiliario para la exhibición y almacenamiento de productos comercializados en las viviendas productivas de interés prioritario del barrio La Aurora, Universidad de San Buenaventura Colombia',
+      tipo: 'Tesis',
+      descarga: 'https://core.ac.uk/download/199658417.pdf ',
+    },
+    {
+      tema: 'Seguridad y salud en el trabajo',
+      referencia:
+        'Decreto 1072 de 2015 [con fuerza de ley]. Por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo. 26 de mayo de 2015. ',
+      tipo: 'Decreto',
+      descarga:
+        'https://www.mintrabajo.gov.co/documents/20147/0/DUR+1072+Sector+Trabajo+Actualizado+a+Diciembre+20+de+2021.pdf/f1f86400-2b37-0582-5557-87a5d3ea8227?t=1640204850717 ',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Cenefa',
+      significado:
+        'tipo de material de promoción que se coloca a lo largo de paredes, techos y pisos.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Display',
+      significado:
+        'formato de interfaz en el cual se ubica información gráfica en pro de la percepción del usuario y sus implicaciones de uso.',
+    },
+    {
+      termino: 'Experiencia',
+      significado:
+        'es una circunstancia o un acontecimiento que, por sus características, resulta trascendental o digno de destacar en la vida de una persona',
+    },
+    {
+      termino: 'Góndola',
+      significado:
+        'exhibidor de gran tamaño utilizado en las mini y supermercados para posicionar los productos en el punto de venta',
+    },
+    {
+      termino: 'Impulso',
+      significado:
+        'deseo o emoción que lleva a realizar algo de manera intempestiva y sin reflexión',
+    },
+    {
+      termino: 'Merchandising',
+      significado:
+        'estrategias o acciones dedicadas al impulso de productos, así como estimular las compras por impulso, aquellas que no estaban pensadas',
+    },
+    {
+      termino: 'Mobiliario',
+      significado:
+        'conjunto de bienes muebles con los que cuenta una organización y que facilitan el desarrollo físico de su actividad económica. Se localiza predominantemente en oficinas, despachos o instalaciones',
+    },
+    {
+      termino: 'Omnicananalidad',
+      significado:
+        'estrategia de comunicación integral orientada a la atención del cliente con el objetivo de garantizar una experiencia satisfactoria al consumidor',
+    },
+    {
+      termino: 'Soporte',
+      significado:
+        'estructura donde se soportan los materiales P.O.P., para su ubicación y posicionamiento',
+    },
+    {
+      termino: 'Tarjeta',
+      significado:
+        'pieza rectangular, de cartulina o de otro material, que lleva algo impreso o escrito',
+    },
+    {
+      termino: 'Vitrinismo',
+      significado:
+        'técnicas y estrategias que se aplican a una vitrina o escaparate con el fin de atrapar a los consumidores que circulan cerca al punto de venta',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Decreto 1072 de 2015. [Ministerio del Trabajo] Por medio del cual se hace la compilación de todas las normas, decretos, leyes y resoluciones correspondientes a la seguridad y salud en el trabajo, así como salud ocupacional en Colombia. 26 de mayo de 2015.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gómez Cuevas, P. A., y Naranjo Suárez, K. (2018). Implementación del sistema de seguridad y salud en el trabajo de acuerdo a los lineamientos establecidos por el Decreto 1072 de 2015 en la empresa Occidental de Ventas Ltda. [Trabajo de grado. Fundación Universidad de América] Repositorio Institucional Universidad de América.',
+      link: 'https://repository.uamerica.edu.co/handle/20.500.11839/6865',
+    },
+    {
+      referencia:
+        'Martínez Cruz, H. (2018). El arte de seducir: Merchandising.  Ecoe Ediciones.',
+      link: '',
+    },
+    {
+      referencia:
+        'Yate Arévalo, A. (2012). Material P.O.P. Publicidad en punto de venta.  Ecoe Ediciones',
       link: '',
     },
   ],
