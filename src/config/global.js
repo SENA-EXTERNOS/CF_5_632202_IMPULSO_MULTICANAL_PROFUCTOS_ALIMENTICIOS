@@ -3,12 +3,7 @@ export default {
     componenteFormativo: 'Acondicionamiento y condiciones de punto de venta',
     descripcionCurso:
       'En el momento de la compra son varios los factores determinantes que permiten su realización, que requieren pasar de exhibir un producto a generar una experiencia en el punto de venta, para lograrlo es necesario la implementación de estrategias que permitan al cliente vivir un momento especial, y lo más importante, que sea repetitivo, aumentando las ventas de la marca.',
-    imagenBannerPrincipal: [
-      {
-        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-princiapal-3.svg'),
-      },
-    ],
+
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal1.png'),
     imagenesDecorativasBanner: [
       {
@@ -18,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-3.png'),
       },
     ],
   },
