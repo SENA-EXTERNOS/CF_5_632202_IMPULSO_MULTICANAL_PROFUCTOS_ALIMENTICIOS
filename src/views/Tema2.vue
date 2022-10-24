@@ -7,12 +7,12 @@
         span 2
       h1 Merchandising
     .row
-    .col-md-9.d-block.mx-auto 
-      .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
-        .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img-1.png')})`}")
-        .bloque-texto-g__texto.p-4
-          p.mb-0 Son todas las actividades que impulsan la compra. El término hace referencia etimológicamente a la acción de mercancía, por tanto, involucra todas las estrategias o acciones dedicadas a la promoción de productos, así como aquellas destinadas a estimular las compras por impulso, es decir, las que no estaban pensadas al momento de ingresar a un determinado establecimiento comercial.
+      .col-md-9.d-block.mx-auto 
+        .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img-1.png')})`}")
+          .bloque-texto-g__texto.p-4
+            p.mb-0 Son todas las actividades que impulsan la compra. El término hace referencia etimológicamente a la acción de mercancía, por tanto, involucra todas las estrategias o acciones dedicadas a la promoción de productos, así como aquellas destinadas a estimular las compras por impulso, es decir, las que no estaban pensadas al momento de ingresar a un determinado establecimiento comercial.
     Separador
     .titulo-segundo.color-primario
       h2 2.1  Objetivos del Merchandising

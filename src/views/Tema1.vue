@@ -12,7 +12,7 @@
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p La adecuación y la disposición de los diferentes elementos que se utilizan para la oferta de productos es indispensable, porque permite garantizar la calidad del producto alimenticio y el aumento en las ventas. Es desde ese momento que inicia el proceso de compra, incentivando los diferentes elementos necesarios que la inciten
-        .cajon.p-4.mb-4
+        .cajon.p-4
           p Al momento de ofertar un producto todas las condiciones son esenciales, desde el empaque, los atributos, la promoción que se realice, así como los canales empleados para la oferta del mismo. El mercado es cambiante y se debe adaptar a los requerimientos que implican los deseos del consumidor, permitiendo llegar a diferentes escenarios de este tipo y logrando aumentar las ventas.
     Separador
     .titulo-segundo.color-primario
@@ -21,7 +21,7 @@
       .col-lg-2
         img(src='@/assets/curso/temas/t1/img-2.png', alt='img2')
       .col-lg-10
-        p.mb-5 El mobiliario comercial se refiere a todos las herramientas o elementos necesarios para la oferta de productos en el sector retail. Se puede acondicionar desde cero, es decir, generando una nueva ubicación, distribución, compra de diferentes anaqueles y estanterías; o, adaptando instalaciones que ya existen en determinado espacio. En cualquier caso, siempre se debe optar por brindar al cliente la mejor experiencia, y, así, aumentar las ventas. Con este fin, es necesario aprovechar los diferentes tipos de tránsito que realiza éste por las distintas zonas por donde puede circular en la tienda o lugar destinado a la venta.
+        p El mobiliario comercial se refiere a todos las herramientas o elementos necesarios para la oferta de productos en el sector retail. Se puede acondicionar desde cero, es decir, generando una nueva ubicación, distribución, compra de diferentes anaqueles y estanterías; o, adaptando instalaciones que ya existen en determinado espacio. En cualquier caso, siempre se debe optar por brindar al cliente la mejor experiencia, y, así, aumentar las ventas. Con este fin, es necesario aprovechar los diferentes tipos de tránsito que realiza éste por las distintas zonas por donde puede circular en la tienda o lugar destinado a la venta.
     Separador
     .titulo-segundo.color-primario  
       h2 1.2  Etapas de un proyecto de mobiliario comercial
