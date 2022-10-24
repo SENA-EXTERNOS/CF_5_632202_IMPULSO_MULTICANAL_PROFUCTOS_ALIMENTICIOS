@@ -120,23 +120,23 @@
     ImagenInfografica.color-secundario.mb-5.col-6.d-block.mx-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/t2/img-8.png', alt='img8' )   
-      .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="1" )
+          img(src='@/assets/curso/temas/t2/img.8.png', alt='img8' )   
+      .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="" )
         .h5.mb-2 Frenar la reducción en las ventas
         p Dinamizar las ventas: 
         p A través de promociones agresivas.
-      .tarjeta.color-acento-botones.p-3(x="70%" y="10%" numero="2")
+      .tarjeta.color-acento-botones.p-3(x="70%" y="10%" numero="")
         .h5.mb-2 Mantener estrategias que han funcionado
         p A través de:
         p Dedicación personal al producto.Excelentes relaciones con los colaboradores
         P Promociones del producto.
-      .tarjeta.color-acento-botones.p-3(x="13%" y="60%" numero="3")
+      .tarjeta.color-acento-botones.p-3(x="13%" y="60%" numero="")
         .h5.mb-2 Nace una nueva referencia de producto
         p Responde a:
         p ¿Dónde será instalado?
         p ¿En qué línea?
         P ¿Cerca a qué productos?
-      .tarjeta.color-acento-botones.p-3(x="93%" y="90%" numero="4")
+      .tarjeta.color-acento-botones.p-3(x="83%" y="70%" numero="")
         .h5.mb-2 Generación de estrategias
         p Para
         p Evitar el estancamiento
@@ -152,15 +152,15 @@
       .col-lg-2
       h2 Merchandising de almacén
       p Se encarga del punto de venta y se analiza el espacio desde las siguientes perspectivas:
-      TabsA.color-acento-botones.mb-5
-        .tarjeta.color-acento-botones--borde.p-4(titulo="La ubicación")
+      TabsA.color-secundario.mb-5
+        .tarjeta.color-secundario--borde.p-4(titulo="La ubicación")
           .row
             .col-6
               h4 La ubicación
               p Incide en la decisión de compra de los consumidores, por ejemplo, situar el almacén en avenidas que tengan fácil acceso, lugares donde no se dificulte llegar a través de medios de transporte, etc.
             .col-6
               img(src='@/assets/curso/temas/t2/img-14.png', alt='img14')
-        .tarjeta.color-acento-botones--borde.p-4(titulo="El lay out Interior")
+        .tarjeta.color-secundario--borde.p-4(titulo="El lay out Interior")
           .row
             .col-6
               h4 El lay out Interior
@@ -169,14 +169,14 @@
               p Además, se deben considerar otros detalles, por pequeños que parezca, como la ubicación de los impulsadores, las estanterías, la música, la iluminación, etc. (Martínez Cruz, H., 2018) .
             .col-6
               img(src='@/assets/curso/temas/t2/img-15.png', alt='img15')
-        .tarjeta.color-acento-botones--borde.p-4(titulo="La Fachada")
+        .tarjeta.color-secundario--borde.p-4(titulo="La Fachada")
           .row
             .col-6
               h4 La Fachada
               p Es la encargada de comunicar un concepto de marca, impactar y crear un distintivo respecto a la competencia. 
             .col-6
               img(src='@/assets/curso/temas/t2/img-16.png', alt='img16')
-        .tarjeta.color-acento-botones--borde.p-4(titulo="Estanterías")
+        .tarjeta.color-secundario--borde.p-4(titulo="Estanterías")
           .row
             .col-6
               h4 Estanterías
@@ -186,7 +186,7 @@
               p La altura de las manos: es la altura que requiere menos esfuerzo para tomar los productos.
             .col-6
               img(src='@/assets/curso/temas/t2/img-17.png', alt='img17')
-        .tarjeta.color-acento-botones--borde.p-4(titulo="Vitrinismo")
+        .tarjeta.color-secundario--borde.p-4(titulo="Vitrinismo")
           .row
             .col-6
               h4 Vitrinismo
@@ -278,7 +278,85 @@
           li
     separador
     h2 2.4 Implementación de merchandising
-          
+      p Para ampliar los saberes asociados a las ventajas, etapas y tipos de merchandising, se puede hacer uso de algunas de las estrategias y técnicas para su implementación efectiva en el punto de venta.
+    ImagenInfografica.color-secundario.mb-5.col-6.d-block.mx-auto
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/temas/t2/img-21.png', alt='img21' )   
+      .tarjeta.color-acento-botones.p-3(x="60%" y="20%" numero="1" )
+        .h5.mb-2 Frenar la reducción en las ventas
+        p Dinamizar las ventas: 
+        p A través de promociones agresivas.
+      .tarjeta.color-acento-botones.p-3(x="78%" y="57%" numero="2")
+        .h5.mb-2 Mantener estrategias que han funcionado
+        p A través de:
+        p Dedicación personal al producto.Excelentes relaciones con los colaboradores
+        P Promociones del producto.
+      .tarjeta.color-acento-botones.p-3(x="58%" y="87%" numero="3")
+        .h5.mb-2 Nace una nueva referencia de producto
+        p Responde a:
+        p ¿Dónde será instalado?
+        p ¿En qué línea?
+        P ¿Cerca a qué productos?
+      .tarjeta.color-acento-botones.p-3(x="93%" y="90%" numero="4")
+        .h5.mb-2 Generación de estrategias
+        p Para
+        p Evitar el estancamiento
+        p Aumentar ventas
+        P Exp
+    h2 2.5 Técnicas de merchandising
+      p.mt-5 Es hora de ver las técnicas que se pueden implementar para desarrollar el merchandising.
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .row.mb-5
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-22.png' alt='img-22')
+            .tarjeta.color-adicional-2.borde_tarjeta
+              .text-black.p-4
+                h2.text-center Degustaciones: 
+                p Generan muy buena aceptación en los establecimientos y provocan incrementos de venta.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/t2/img-23.png' alt='AvatarTop')
+          .tarjeta.color-adicional-2.border
+            .p-4
+              h2.text-center Demostraciones: 
+              p Se realizan para productos como electrodomésticos, transmitiendo seguridad al cliente.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/t2/img-24.png' alt='AvatarTop')
+          .tarjeta.color-adicional-2.border
+            .p-4
+              h2.text-center Pilas y exposiciones masivas de producto:
+              p Generan sensación de abundancia y provocan un efecto positivo en los compradores. 
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/t2/img-25.png' alt='AvatarTop')
+          .tarjeta.color-adicional-2.border
+            .p-4
+              h2.text-center Cubetas: 
+              p Son contenedores. Exhiben el producto de forma directa, generando la impresión de descuento. 
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/t2/img-26.png' alt='AvatarTop')
+          .tarjeta.color-adicional-2.border
+            .p-4
+              h2.text-center Extensiones de lineal: 
+              p Permiten resaltar un producto sobre los demás en una estantería.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/t2/img-27.png' alt='AvatarTop')
+          .tarjeta.color-adicional-2.border
+            .p-4
+              h2.text-center Mástiles
+              p Carteles que anuncian algún tipo de descuento, ya sea sobre el mobiliario o colgando del techo.
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/t2/img-28.png' alt='AvatarTop')
+          .tarjeta.color-adicional-2.border
+            .p-4
+              h2.text-center Señalizadores
+              p Son indicadores, por ejemplo, flechas en el suelo, que permiten guiar a los clientes.
 </template>
 
 <script>
