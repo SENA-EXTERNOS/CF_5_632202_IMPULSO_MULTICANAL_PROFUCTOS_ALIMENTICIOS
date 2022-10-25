@@ -283,27 +283,28 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t2/img-21.png', alt='img21' )   
-      .tarjeta.color-acento-botones.p-3(x="60%" y="20%" numero="1" )
-        .h5.mb-2 Frenar la reducción en las ventas
-        p Dinamizar las ventas: 
-        p A través de promociones agresivas.
-      .tarjeta.color-acento-botones.p-3(x="78%" y="57%" numero="2")
-        .h5.mb-2 Mantener estrategias que han funcionado
-        p A través de:
-        p Dedicación personal al producto.Excelentes relaciones con los colaboradores
-        P Promociones del producto.
-      .tarjeta.color-acento-botones.p-3(x="58%" y="87%" numero="3")
-        .h5.mb-2 Nace una nueva referencia de producto
-        p Responde a:
-        p ¿Dónde será instalado?
-        p ¿En qué línea?
-        P ¿Cerca a qué productos?
-      .tarjeta.color-acento-botones.p-3(x="93%" y="90%" numero="4")
-        .h5.mb-2 Generación de estrategias
-        p Para
-        p Evitar el estancamiento
-        p Aumentar ventas
-        P Exp
+      .tarjeta.color-acento-botones.p-3(x="64%" y="21%" numero="1" )
+        .h5.mb-2 Identificación de zonas:
+        p Detectar las zonas frías (menos transitadas) y calientes (más transitadas) en el punto de venta, para realizar la ubicación estratégica de los productos. 
+      .tarjeta.color-acento-botones.p-3(x="78%" y="47%" numero="2")
+        .h5.mb-2 Animación y ambientación en el punto de venta: 
+        p Se puede desarrollar a través de cuatro medios:
+        p a. Físico: Utilizando publicidad como exhibidores, catálogos y folletos.
+        p b. Psicológicos: promociones y ubicación de manera reiterada el producto.
+        P c. De estímulos: luces y sonido que captan la atención del cliente.
+        p d. Personales: personajes caracterizados, encargados de animar en el punto de venta. 
+      .tarjeta.color-acento-botones.p-3(x="66%" y="73%" numero="3")
+        .h5.mb-2 Exhibición: 
+        p Exposición del producto mediante souvenirs (Material POP) y degustaciones.
+      .tarjeta.color-acento-botones.p-3(x="33%" y="74%" numero="4")
+        .h5.mb-2 Ubicación:
+        p Ubicar los productos de manera estratégica y accesible. No se debe generar algún tipo de obstáculo, por ejemplo, desplazarse hasta la bodega
+      .tarjeta.color-acento-botones.p-3(x="22%" y="48%" numero="5")
+        .h5.mb-2 Mobiliario:
+        p Aprovechar el mobiliario utilizado, así como la ubicación de los productos, teniendo en cuenta, por ejemplo, la altura a la que son ubicados.
+      .tarjeta.color-acento-botones.p-3(x="37%" y="21%" numero="6")
+        .h5.mb-2 Capacitación del personal
+        p Realizar capacitación constante al personal, para garantizar una excelente atención al cliente.
     h2 2.5 Técnicas de merchandising
       p.mt-5 Es hora de ver las técnicas que se pueden implementar para desarrollar el merchandising.
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
@@ -358,7 +359,6 @@
               h2.text-center Señalizadores
               p Son indicadores, por ejemplo, flechas en el suelo, que permiten guiar a los clientes.
 </template>
-
 <script>
 export default {
   name: 'Tema2',
