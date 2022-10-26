@@ -115,9 +115,10 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/t2/img-7.png', alt='img7')
-    h2 2.2 Merchandising y ciclo de vida del producto
+    .titulo-segundo.color-primario
+      h2 2.2 Merchandising y ciclo de vida del producto
     p Las estrategias de mercadeo y publicidad que se desarrollan para posicionar un producto determinan en qué etapa se encuentra, siendo necesario seguir el ciclo de vida del producto así:
-    ImagenInfografica.color-secundario.mb-5.col-6.d-block.mx-auto
+    ImagenInfografica.color-nuevo.mb-5.col-10.d-block.mx-auto
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t2/img.8.png', alt='img8' )   
@@ -142,7 +143,8 @@
         p Evitar el estancamiento
         p Aumentar ventas
         P Expansión del producto.
-    h2 2.3 Tipos de merchandising 
+    .titulo-segundo.color-primario
+      h2 2.3 Tipos de merchandising 
     .row.mt-4
       .col-lg-2
         img(src='@/assets/curso/temas/t2/img-13.png', alt='img13')
@@ -218,7 +220,7 @@
             .col.mt-4
               p Para mayor comprensión del proceso de montaje de una vitrina, se listan los siguientes aspectos que permiten realizar su montaje, utilizando merchandising.
         .col-lg-8.mb-5
-          .cajon.color-secundario.p-4.mb-4
+          .cajon.color-secundario1.p-4.mb-4
             ul.lista-ul--color
               li
                 i.fas.fa-check
@@ -277,9 +279,11 @@
             | La cantidad, el producto, el lugar y una acomodación adecuada del mismo.
           li
     separador
-    h2 2.4 Implementación de merchandising
-      p Para ampliar los saberes asociados a las ventajas, etapas y tipos de merchandising, se puede hacer uso de algunas de las estrategias y técnicas para su implementación efectiva en el punto de venta.
-    ImagenInfografica.color-secundario.mb-5.col-6.d-block.mx-auto
+    .titulo-segundo.color-primario
+      h2 2.4 Implementación de merchandising
+    p Para ampliar los saberes asociados a las ventajas, etapas y tipos de merchandising, se puede hacer uso de algunas de las estrategias y técnicas para su implementación efectiva en el punto de venta.
+    
+    ImagenInfografica.color-secundario.mb-5.col-8.d-block.mx-auto
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t2/img-21.png', alt='img21' )   
@@ -305,8 +309,27 @@
       .tarjeta.color-acento-botones.p-3(x="37%" y="21%" numero="6")
         .h5.mb-2 Capacitación del personal
         p Realizar capacitación constante al personal, para garantizar una excelente atención al cliente.
-    h2 2.5 Técnicas de merchandising
-      p.mt-5 Es hora de ver las técnicas que se pueden implementar para desarrollar el merchandising.
+    .titulo-segundo.color-primario
+      h2 2.5 Técnicas de merchandising
+    p.mt-5 Es hora de ver las técnicas que se pueden implementar para desarrollar el merchandising.
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-acento-botones.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+        h2.text-center FIRST
+        p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
+      .tarjeta.color-acento-botones.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
+        h2.text-center FIRST
+        p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
+
+
+
+
+
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .row.mb-5
         .col-md-6.col-lg.mb-5.mb-lg-0
@@ -316,41 +339,41 @@
               .text-black.p-4
                 h2.text-center Degustaciones: 
                 p Generan muy buena aceptación en los establecimientos y provocan incrementos de venta.
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/t2/img-23.png' alt='AvatarTop')
-          .tarjeta.color-adicional-2.border
-            .p-4
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-23.png' alt='AvatarTop')
+            .tarjeta.color-adicional-2.border
+            .text-black.p-4
               h2.text-center Demostraciones: 
               p Se realizan para productos como electrodomésticos, transmitiendo seguridad al cliente.
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/t2/img-24.png' alt='AvatarTop')
-          .tarjeta.color-adicional-2.border
-            .p-4
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-24.png' alt='AvatarTop')
+            .tarjeta.color-adicional-2.border
+            .text-black.p-4
               h2.text-center Pilas y exposiciones masivas de producto:
               p Generan sensación de abundancia y provocan un efecto positivo en los compradores. 
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/t2/img-25.png' alt='AvatarTop')
-          .tarjeta.color-adicional-2.border
-            .p-4
-              h2.text-center Cubetas: 
-              p Son contenedores. Exhiben el producto de forma directa, generando la impresión de descuento. 
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/t2/img-26.png' alt='AvatarTop')
-          .tarjeta.color-adicional-2.border
-            .p-4
-              h2.text-center Extensiones de lineal: 
-              p Permiten resaltar un producto sobre los demás en una estantería.
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/t2/img-27.png' alt='AvatarTop')
-          .tarjeta.color-adicional-2.border
-            .p-4
-              h2.text-center Mástiles
-              p Carteles que anuncian algún tipo de descuento, ya sea sobre el mobiliario o colgando del techo.
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-25.png' alt='AvatarTop')
+            .tarjeta.color-adicional-2.border
+            .text-black.p-4
+                h2.text-center Cubetas: 
+                p Son contenedores. Exhiben el producto de forma directa, generando la impresión de descuento. 
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-26.png' alt='AvatarTop')
+            .tarjeta.color-adicional-2.border
+            .text-black.p-4
+                h2.text-center Extensiones de lineal: 
+                p Permiten resaltar un producto sobre los demás en una estantería.
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-27.png' alt='AvatarTop')
+            .tarjeta.color-adicional-2.border
+              .p-4
+                h2.text-center Mástiles
+                p Carteles que anuncian algún tipo de descuento, ya sea sobre el mobiliario o colgando del techo.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t2/img-28.png' alt='AvatarTop')
