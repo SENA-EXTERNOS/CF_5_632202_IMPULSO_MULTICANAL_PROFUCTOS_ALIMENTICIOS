@@ -312,75 +312,33 @@
     .titulo-segundo.color-primario
       h2 2.5 Técnicas de merchandising
     p.mt-5 Es hora de ver las técnicas que se pueden implementar para desarrollar el merchandising.
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-botones.p-4
-        .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
-        h2.text-center FIRST
-        p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
-      .tarjeta.color-acento-botones.p-4
-        .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
-        h2.text-center FIRST
-        p.text-center moment. Abandon the shelter of insecurity. Be bold. Greatness isn’t the height of your stature, it’s the heft of your spirit.
-
-
-
-
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .row.mb-5
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/img-22.png' alt='img-22')
-            .tarjeta.color-adicional-2.borde_tarjeta
+            .tarjeta.color-primario.borde_tarjeta
               .text-black.p-4
                 h2.text-center Degustaciones: 
                 p Generan muy buena aceptación en los establecimientos y provocan incrementos de venta.
+      .row.mb-5
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/img-23.png' alt='AvatarTop')
-            .tarjeta.color-adicional-2.border
-            .text-black.p-4
-              h2.text-center Demostraciones: 
-              p Se realizan para productos como electrodomésticos, transmitiendo seguridad al cliente.
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/img-24.png' alt='AvatarTop')
-            .tarjeta.color-adicional-2.border
-            .text-black.p-4
-              h2.text-center Pilas y exposiciones masivas de producto:
-              p Generan sensación de abundancia y provocan un efecto positivo en los compradores. 
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/img-25.png' alt='AvatarTop')
-            .tarjeta.color-adicional-2.border
-            .text-black.p-4
-                h2.text-center Cubetas: 
-                p Son contenedores. Exhiben el producto de forma directa, generando la impresión de descuento. 
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/img-26.png' alt='AvatarTop')
-            .tarjeta.color-adicional-2.border
-            .text-black.p-4
-                h2.text-center Extensiones de lineal: 
-                p Permiten resaltar un producto sobre los demás en una estantería.
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta-avatar
-            img(src='@/assets/curso/temas/t2/img-27.png' alt='AvatarTop')
-            .tarjeta.color-adicional-2.border
+            img(src='@/assets/curso/temas/t2/img-23.png' alt='img-23')
+            .tarjeta.color-primario.borde_tarjeta
               .p-4
-                h2.text-center Mástiles
-                p Carteles que anuncian algún tipo de descuento, ya sea sobre el mobiliario o colgando del techo.
-      .col-md-6.col-lg.mb-5.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/t2/img-28.png' alt='AvatarTop')
-          .tarjeta.color-adicional-2.border
-            .p-4
-              h2.text-center Señalizadores
-              p Son indicadores, por ejemplo, flechas en el suelo, que permiten guiar a los clientes.
+                h2.text-center Demostraciones: 
+                p Se realizan para productos como electrodomésticos, transmitiendo seguridad al cliente.
+      .row.mb-5
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-24.png' alt='img-24')
+            .tarjeta.color-primario.border-primary
+              .p-4
+                h2.text-center Pilas y exposiciones masivas de producto: 
+                p Generan sensación de abundancia y provocan un efecto positivo en los compradores.
+        
 </template>
 <script>
 export default {
