@@ -122,22 +122,22 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t2/img.8.png', alt='img8' )   
-      .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="" )
+      .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="  " )
         .h5.mb-2 Frenar la reducción en las ventas
         p Dinamizar las ventas: 
         p A través de promociones agresivas.
-      .tarjeta.color-acento-botones.p-3(x="70%" y="10%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="70%" y="20%" numero="  ")
         .h5.mb-2 Mantener estrategias que han funcionado
         p A través de:
         p Dedicación personal al producto.Excelentes relaciones con los colaboradores
         P Promociones del producto.
-      .tarjeta.color-acento-botones.p-3(x="13%" y="60%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="13%" y="70%" numero="  ")
         .h5.mb-2 Nace una nueva referencia de producto
         p Responde a:
         p ¿Dónde será instalado?
         p ¿En qué línea?
         P ¿Cerca a qué productos?
-      .tarjeta.color-acento-botones.p-3(x="83%" y="70%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="83%" y="70%" numero="  ")
         .h5.mb-2 Generación de estrategias
         p Para
         p Evitar el estancamiento
@@ -154,7 +154,7 @@
       .col-lg-2
       h2 Merchandising de almacén
       p Se encarga del punto de venta y se analiza el espacio desde las siguientes perspectivas:
-      TabsA.color-secundario.mb-5
+      TabsA.color-acento-contenido.mb-5
         .tarjeta.color-secundario--borde.p-4(titulo="La ubicación")
           .row
             .col-6
@@ -212,7 +212,7 @@
                   | Exterior: su función es impactar al transeúnte o potencial comprador al brindarle una breve información respecto al producto, despertando su atención, su interés y avivando su curiosidad por conocer más.
                 li
             .col-6
-              img(src='@/assets/curso/temas/t2/img-15.png', alt='img15')
+              img(src='@/assets/curso/temas/t2/img.17.png', alt='img17')
       .row
         .col-lg-4
           img(src='@/assets/curso/temas/t2/img-18.png', alt='img18')
@@ -286,27 +286,27 @@
     ImagenInfografica.color-secundario.mb-5.col-8.d-block.mx-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/t2/img-21.png', alt='img21' )   
-      .tarjeta.color-acento-botones.p-3(x="64%" y="21%" numero="1" )
+          img(src='@/assets/curso/temas/t2/img-21.png', alt='img21' )       
+      .tarjeta.color-acento-botones.p-3(x="64%" y="21%" numero="" )
         .h5.mb-2 Identificación de zonas:
         p Detectar las zonas frías (menos transitadas) y calientes (más transitadas) en el punto de venta, para realizar la ubicación estratégica de los productos. 
-      .tarjeta.color-acento-botones.p-3(x="78%" y="47%" numero="2")
+      .tarjeta.color-acento-botones.p-3(x="78%" y="47%" numero="")
         .h5.mb-2 Animación y ambientación en el punto de venta: 
         p Se puede desarrollar a través de cuatro medios:
         p a. Físico: Utilizando publicidad como exhibidores, catálogos y folletos.
         p b. Psicológicos: promociones y ubicación de manera reiterada el producto.
         P c. De estímulos: luces y sonido que captan la atención del cliente.
         p d. Personales: personajes caracterizados, encargados de animar en el punto de venta. 
-      .tarjeta.color-acento-botones.p-3(x="66%" y="73%" numero="3")
+      .tarjeta.color-acento-botones.p-3(x="66%" y="73%" numero="")
         .h5.mb-2 Exhibición: 
         p Exposición del producto mediante souvenirs (Material POP) y degustaciones.
-      .tarjeta.color-acento-botones.p-3(x="33%" y="74%" numero="4")
+      .tarjeta.color-acento-botones.p-3(x="33%" y="74%" numero="")
         .h5.mb-2 Ubicación:
         p Ubicar los productos de manera estratégica y accesible. No se debe generar algún tipo de obstáculo, por ejemplo, desplazarse hasta la bodega
-      .tarjeta.color-acento-botones.p-3(x="22%" y="48%" numero="5")
+      .tarjeta.color-acento-botones.p-3(x="22%" y="48%" numero="")
         .h5.mb-2 Mobiliario:
         p Aprovechar el mobiliario utilizado, así como la ubicación de los productos, teniendo en cuenta, por ejemplo, la altura a la que son ubicados.
-      .tarjeta.color-acento-botones.p-3(x="37%" y="21%" numero="6")
+      .tarjeta.color-acento-botones.p-3(x="37%" y="21%" numero="")
         .h5.mb-2 Capacitación del personal
         p Realizar capacitación constante al personal, para garantizar una excelente atención al cliente.
     .titulo-segundo.color-primario
@@ -334,11 +334,42 @@
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/img-24.png' alt='img-24')
-            .tarjeta.color-primario.border-primary
+            .tarjeta.color-primario.borde_tarjeta
               .p-4
                 h2.text-center Pilas y exposiciones masivas de producto: 
                 p Generan sensación de abundancia y provocan un efecto positivo en los compradores.
-        
+      .row.mb-5
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-25.png' alt='img-25')
+            .tarjeta.color-primario.borde_tarjeta
+              .p-4
+                h2.text-center Cubetas: 
+                p Son contenedores. Exhiben el producto de forma directa, generando la impresión de descuento.
+      .row.mb-5
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-26.png' alt='img-26')
+            .tarjeta.color-primario.borde_tarjeta
+              .p-4
+                h3.text-center Extensiones de lineal: 
+                p Permiten resaltar un producto sobre los demás en una estantería.
+      .row.mb-5
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-27.png' alt='img-27')
+            .tarjeta.color-primario.borde_tarjeta
+              .p-4
+                h3.text-center Mástiles: 
+                p Carteles que anuncian algún tipo de descuento, ya sea sobre el mobiliario o colgando del techo.
+      .row.mb-5
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta-avatar
+            img(src='@/assets/curso/temas/t2/img-28.png' alt='img-28')
+            .tarjeta.color-primario.borde_tarjeta
+              .p-4
+                h2.text-center Señalizadores:
+                p Son indicadores, por ejemplo, flechas en el suelo, que permiten guiar a los clientes.
 </template>
 <script>
 export default {
