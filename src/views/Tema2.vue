@@ -260,7 +260,7 @@
     .row
       .col-lg-4.d-block.mx-auto
         img(src='@/assets/curso/temas/t2/img-20.png', alt='img20')
-      .col-lg-5
+      .col-lg-7
         ul.lista-ul--color
           li
             i.fas.fa-check
