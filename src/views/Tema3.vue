@@ -10,11 +10,11 @@
       .col-lg-2
         img(src='@/assets/curso/temas/t3/img-1.png', alt='img1')
       .col-lg-10
-        p.mb-5 El Material POP (Point on Purchase), es utilizado en el punto de venta para la promoción de productos y/o servicios, es decir, apoya la presencia del mismo en la tienda, exaltando sus condiciones, atributos y materiales. Es muy utilizado en situaciones donde no se puede permitir un número alto de vendedores que apoyen el proceso de venta (Yate Arévalo, 2012).
-    h2.mt-4 Objetivos del material P.O.P.
+        p.mb-5 El <b>Material POP</b> <i>(Point on Purchase)</i>, es utilizado en el punto de venta para la promoción de productos y/o servicios, es decir, apoya la presencia del mismo en la tienda, exaltando sus condiciones, atributos y materiales. Es muy utilizado en situaciones donde no se puede permitir un número alto de vendedores que apoyen el proceso de venta (Yate Arévalo, 2012).
+    h2.mt-4 Objetivos del material P.O.P
     .row.mt-5 
       .col-3
-        p Los materiales P.O.P. tienen unos objetivos determinados así:
+        p Los materiales P.O.P tienen unos objetivos determinados así:
       .col-9
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta.color-adicional-2.p-4
@@ -65,7 +65,7 @@
               .col-12.p-0.m-0.col-md-12.col-sm-12
                 .pl-card-cus(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-9.svg')})`, 'background-repeat': 'no-repeat'}")
                   p.mb-3.text-bold Recordación 
-                  p En los materiales POP, o displays, suelen utilizarse las marcas o nombres de los productos específicos, para generar recordación a la hora de introducir una nueva y poder crecer en el mercado; se puede hacer con pautas comerciales, radiales, volantes o materiales POP, que ayudan en dicho proceso y garanticen compras futuras, aumentando la tasa de recompra.
+                  p En los materiales POP, o <i>displays</i>, suelen utilizarse las marcas o nombres de los productos específicos, para generar recordación a la hora de introducir una nueva y poder crecer en el mercado; se puede hacer con pautas comerciales, radiales, volantes o materiales POP, que ayudan en dicho proceso y garanticen compras futuras, aumentando la tasa de recompra.
             .row.p-0.m-0
               .col-12.p-0.m-0.col-md-12.col-sm-12
                 .pl-card-cus(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-10.svg')})`, 'background-repeat': 'no-repeat'}")
@@ -98,7 +98,7 @@
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
                 p.px-5.mt-5.text-bold Reducir gastos de publicidad: 
                 p.px-5.mt-2 No todos los comerciantes tienen los recursos y pueden anunciar las mercancías de su tienda a través de periódicos, radio y TV. El material POP en el punto de venta brinda una ocasión ideal para esto.
-    p.mb-5 El material POP es mucho más que publicidad en el punto de venta y una estrategia de merchandising, es un ‘medio indispensable de comunicación’ con los clientes, que dinamiza el proceso de venta y compra. Algunas interacciones o medios que se pueden utilizar son:
+    p.mb-5 El material POP es mucho más que publicidad en el punto de venta y una estrategia de <i>merchandising</i>, es un ‘medio indispensable de comunicación’ con los clientes, que dinamiza el proceso de venta y compra. Algunas interacciones o medios que se pueden utilizar son:
       .row.mb-5 
         .col-3.d-block.mx-auto 
           img(src='@/assets/curso/temas/t3/img-28.png' alt='img28')
@@ -118,7 +118,7 @@
 
     Separador
     .titulo-segundo.color-primario
-      h2 3.1.	Ventajas del material P.O.P.
+      h2 3.2.	Utilización de material P.O.P
     .row
       .col-lg-2
         img(src='@/assets/curso/temas/t3/img-17.png', alt='img1')
@@ -201,7 +201,7 @@
                       | bolígrafo
                     li 
                       i.fas.fa-check
-                      | Mouse pads
+                      | <i>Mouse pads</i>
                 .col-6.p-0.m-0
                   ul.lista-ul--color.px-5.pt-3
                     li
@@ -212,7 +212,7 @@
                       | Pisapapeles de escritorios
                     li
                       i.fas.fa-check
-                      | Blocks de notas
+                      | <i>Blocks</i> de notas
                     li
                       i.fas.fa-check
                       | Bolsas de mercado o tiendas
@@ -243,7 +243,7 @@
                       | Punta de góndola 
                     li
                       i.fas.fa-check
-                      | Dummy 
+                      | <i>Dummy</i> 
                     li
                       i.fas.fa-check
                       | Isla
@@ -252,7 +252,7 @@
                       | Punto de degustación 
                     li
                       i.fas.fa-check
-                      | Stand
+                      | <i>Stand</i>
                 .col-6.p-0.m-0
                   ul.lista-ul--color.px-5.pt-3
                     li
@@ -272,13 +272,13 @@
                       | Cabezote 
                     li
                       i.fas.fa-check
-                      | Sticker 
+                      | <i>Sticker </i>
                     li
                       i.fas.fa-check
-                      | Brochure 
+                      | <i>Brochure</i> 
                     li
                       i.fas.fa-check
-                      | Flayer
+                      | <i>Flayer</i>
               
 
     .row.d-flex.justify-content-center.align-items-center

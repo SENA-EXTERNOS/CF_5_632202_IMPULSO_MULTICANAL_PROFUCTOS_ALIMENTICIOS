@@ -21,7 +21,7 @@
       .col-lg-2
         img(src='@/assets/curso/temas/t1/img-2.png', alt='img2')
       .col-lg-10
-        p El mobiliario comercial se refiere a todos las herramientas o elementos necesarios para la oferta de productos en el sector retail. Se puede acondicionar desde cero, es decir, generando una nueva ubicación, distribución, compra de diferentes anaqueles y estanterías; o, adaptando instalaciones que ya existen en determinado espacio. En cualquier caso, siempre se debe optar por brindar al cliente la mejor experiencia, y, así, aumentar las ventas. Con este fin, es necesario aprovechar los diferentes tipos de tránsito que realiza éste por las distintas zonas por donde puede circular en la tienda o lugar destinado a la venta.
+        p El mobiliario comercial se refiere a todos las herramientas o elementos necesarios para la oferta de productos en el sector <i>retail</i>. Se puede acondicionar desde cero, es decir, generando una nueva ubicación, distribución, compra de diferentes anaqueles y estanterías; o, adaptando instalaciones que ya existen en determinado espacio. En cualquier caso, siempre se debe optar por brindar al cliente la mejor experiencia, y, así, aumentar las ventas. Con este fin, es necesario aprovechar los diferentes tipos de tránsito que realiza éste por las distintas zonas por donde puede circular en la tienda o lugar destinado a la venta.
     Separador
     .titulo-segundo.color-primario  
       h2 1.2  Etapas de un proyecto de mobiliario comercial

@@ -59,37 +59,37 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Merchandising',
+        titulo: '<i>Merchandising</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Objetivos del merchandising',
+            titulo: 'Objetivos del <i>merchandising</i>',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Merchandising y ciclo de vida del producto',
+            titulo: '<i>Merchandising</i> y ciclo de vida del producto',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Tipos de merchandising',
+            titulo: 'Tipos de <i>merchandising</i>',
             hash: 't_2_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.4',
-            titulo: 'Implementación de merchandising',
+            titulo: 'Implementación de <i>merchandising</i>',
             hash: 't_2_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.5',
-            titulo: 'Técnicas de merchandising',
+            titulo: 'Técnicas de <i>merchandising</i>',
             hash: 't_2_5',
           },
         ],
@@ -179,26 +179,26 @@ export default {
   },
   complementario: [
     {
-      tema: 'Merchandising',
+      tema: '<i>Merchandising</i>',
       referencia:
         'Avella J, Rojas M., 2017, evaluación de la respuesta sensorial en canastas elaboradas a partir de papel periódico en la tienda unilibrista, Universidad Libre',
       tipo: 'Tesis',
       link:
-        'https://repository.unilibre.edu.co/bitstream/handle/10901/17938/TESIS%20FINAL%20PARA%20OBTENER%20EL%20GRADO%20DE%20ADMINISTRACION%20DE%20EMPRESAS%20PDF.pdf?sequence=1 ',
+        'https://repository.unilibre.edu.co/bitstream/handle/10901/17938/TESIS%20FINAL%20PARA%20OBTENER%20EL%20GRADO%20DE%20ADMINISTRACION%20DE%20EMPRESAS%20PDF.pdf?sequence=1',
     },
     {
       tema: 'Mobiliario Comercial',
       referencia:
         'Benthan E., Guzmán A.,2018, Mobiliario para la exhibición y almacenamiento de productos comercializados en las viviendas productivas de interés prioritario del barrio La Aurora, Universidad de San Buenaventura Colombia',
       tipo: 'Tesis',
-      descarga: 'https://core.ac.uk/download/199658417.pdf ',
+      link: 'https://core.ac.uk/download/199658417.pdf',
     },
     {
       tema: 'Seguridad y salud en el trabajo',
       referencia:
         'Decreto 1072 de 2015 [con fuerza de ley]. Por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo. 26 de mayo de 2015. ',
       tipo: 'Decreto',
-      descarga:
+      link:
         'https://www.mintrabajo.gov.co/documents/20147/0/DUR+1072+Sector+Trabajo+Actualizado+a+Diciembre+20+de+2021.pdf/f1f86400-2b37-0582-5557-87a5d3ea8227?t=1640204850717 ',
     },
   ],
@@ -209,7 +209,7 @@ export default {
         'tipo de material de promoción que se coloca a lo largo de paredes, techos y pisos.',
     },
     {
-      termino: 'Display',
+      termino: '<i>Display</i>',
       significado:
         'formato de interfaz en el cual se ubica información gráfica en pro de la percepción del usuario y sus implicaciones de uso.',
     },
@@ -229,7 +229,7 @@ export default {
         'deseo o emoción que lleva a realizar algo de manera intempestiva y sin reflexión',
     },
     {
-      termino: 'Merchandising',
+      termino: '<i>Merchandising</i>',
       significado:
         'estrategias o acciones dedicadas al impulso de productos, así como estimular las compras por impulso, aquellas que no estaban pensadas',
     },
@@ -272,12 +272,12 @@ export default {
     },
     {
       referencia:
-        'Martínez Cruz, H. (2018). El arte de seducir: Merchandising.  Ecoe Ediciones.',
+        'Martínez Cruz, H. (2018). <i>El arte de seducir: Merchandising</i>.  Ecoe Ediciones.',
       link: '',
     },
     {
       referencia:
-        'Yate Arévalo, A. (2012). Material P.O.P. Publicidad en punto de venta.  Ecoe Ediciones',
+        'Yate Arévalo, A. (2012).<i> Material P.O.P. Publicidad en punto de venta.  Ecoe Ediciones</i>',
       link: '',
     },
   ],

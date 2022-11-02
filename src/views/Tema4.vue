@@ -15,7 +15,7 @@
             p.mb-0 La seguridad y salud en el trabajo hace referencia a la prevención de las lesiones y enfermedades originadas por las condiciones de trabajo. Se enfoca en la protección y promoción de la salud de los trabajadores, para mejorar las condiciones y el ambiente laboral, así como la salud en el trabajo, garantizando bienestar físico, mental y social de los colaboradores (Gómez Cuevas & Naranjo Suárez, 2018). Actualmente el término se amplió a un sistema, ya que en las compañías se debe realizar la implementación de un sistema de gestión de seguridad y salud en el trabajo.
       separador
       .titulo-segundo.color-primario
-        h2 4.1.	¿Qué es el SG-SST?
+        h2 4.1	¿Qué es el SG-SST?
     .row.mt-4
       .col-lg-2
         img(src='@/assets/curso/temas/t4/img-2.png', alt='img2')
@@ -50,7 +50,7 @@
                     i.fas.fa-file-download
       separador
       .titulo-segundo.color-primario
-        h2 4.2.	Riesgos de un Impulsador
+        h2 4.2	Riesgos de un Impulsador
       p.mb-4 Los impulsores y vendedores, están expuestos a diferentes tipos de riesgos, desde los locativos, hasta los psicosociales, al tener que enfrentarse a clientes que requieren atención a veces inmediata de sus necesidades o lo hacen parecer así, exigiendo al impulsor tener una actitud de servicio y desarrollar un manejo de emociones que le permitan trabajar en un ambiente ameno, sin afectar su salud mental.
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Riesgos locativos" :icono="require('@/assets/curso/temas/t4/img-5.png')")

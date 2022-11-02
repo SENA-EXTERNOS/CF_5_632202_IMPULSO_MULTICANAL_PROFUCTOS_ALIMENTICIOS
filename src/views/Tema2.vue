@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Merchandising
+      h1 <i>Merchandising</i>
     .row
       .col-md-9.d-block.mx-auto 
         .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
@@ -15,13 +15,13 @@
             p.mb-0 Son todas las actividades que impulsan la compra. El término hace referencia etimológicamente a la acción de mercancía, por tanto, involucra todas las estrategias o acciones dedicadas a la promoción de productos, así como aquellas destinadas a estimular las compras por impulso, es decir, las que no estaban pensadas al momento de ingresar a un determinado establecimiento comercial.
     Separador
     .titulo-segundo.color-primario
-      h2 2.1  Objetivos del Merchandising
-    p.mb-4 En el merchandising se deben establecer objetivos, y, a partir de éstos, generar las estrategias. Los mismos se pueden identificar a continuación:
+      h2 2.1  <i>Objetivos del Merchandising</i>
+    p.mb-4 En el <i>merchandising</i> se deben establecer objetivos, y, a partir de éstos, generar las estrategias. Los mismos se pueden identificar a continuación:
     .row
       .col-md-5
         img(src='@/assets/curso/temas/t2/img-2.png', alt='img2')
       .col-md-7     
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA.mb-5(tipo="a" clase-tarjeta="faa")
           .row(titulo="Llamar la atención:")
             .col-md-12.mb-4.mb-md-0
               p Destacar un determinado producto respecto a otros o hacer más notorias sus características, promoviendo la compra del mismo.
@@ -40,10 +40,10 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img-3.png')})`}")
           .bloque-texto-g__texto.p-4
-            p.mb-0 Las estrategias para aumentar las ventas están presentes en cada uno de los eslabones de la cadena de suministro, entre las que está el ‘merchandising del fabricante’, que son acciones del fabricante en el punto de venta destinado, orientadas al comprador, al establecimiento y al personal, también se encuentra el ‘merchandising del distribuidor’ que son todas las acciones del minorista en su propio establecimiento, este busca no solo vender, sino optimizar la rentabilidad de la superficie en la que se encuentran los productos y la cual está destinada exclusivamente a la venta.(Martínez Cruz, 2018). 
+            p.mb-0 Las estrategias para aumentar las ventas están presentes en cada uno de los eslabones de la cadena de suministro, entre las que está el ‘<i>merchandising</i> del fabricante’, que son acciones del fabricante en el punto de venta destinado, orientadas al comprador, al establecimiento y al personal, también se encuentra el ‘<i>merchandising</i> del distribuidor’ que son todas las acciones del minorista en su propio establecimiento, este busca no solo vender, sino optimizar la rentabilidad de la superficie en la que se encuentran los productos y la cual está destinada exclusivamente a la venta.(Martínez Cruz, 2018). 
     .row.mt-5
-      h4 Beneficios del Merchandising
-        p.mt-4.mb-4 En el merchandising se deben establecer objetivos, y, a partir de éstos, generar las estrategias. Los mismos se pueden identificar a continuación:
+      h4 Beneficios del <i>Merchandising</i>
+        p.mt-4.mb-4 En el <i>merchandising</i> se deben establecer objetivos, y, a partir de éstos, generar las estrategias. Los mismos se pueden identificar a continuación:
       .col-11.d-block.mx-auto 
           ul.lista-ul--color
             li 
@@ -58,12 +58,12 @@
               img(src='@/assets/curso/temas/t2/img-4.png', alt='img4')
             li 
               i.fas.fa-check
-              | Reducción en el tiempo de compra
+              | Reducción en el tiempo de compra.
             li
               img(src='@/assets/curso/temas/t2/img-4.png', alt='img4')
             li 
               i.fas.fa-check
-              | Aumento en la cantidad de compras por impulso
+              | Aumento en la cantidad de compras por impulso.
             li
               img(src='@/assets/curso/temas/t2/img-4.png', alt='img4')
             li 
@@ -83,15 +83,15 @@
               img(src='@/assets/curso/temas/t2/img-4.png', alt='img4')
             li 
               i.fas.fa-check
-              | Venta de stocks o productos rezagados.
+              | Venta de <i>stocks</i> o productos rezagados.
             li
               img(src='@/assets/curso/temas/t2/img-4.png', alt='img4')
             li 
               i.fas.fa-check
-              | Un punto de venta más atractivo
+              | Un punto de venta más atractivo.
             li
-    h4 Etapas en una estrategia de merchandising
-      p.mt-4.mb-4 Para desarrollar una estrategia de merchandising es indispensable identificar las siguientes etapas:
+    h4 Etapas en una estrategia de <i>merchandising</i>
+      p.mt-4.mb-4 Para desarrollar una estrategia de <i>merchandising</i> es indispensable identificar las siguientes etapas:
     .tarjeta.color-primario.p-4.mb-5
       SlyderA(tipo="b")
         .row
@@ -116,43 +116,44 @@
             figure
               img(src='@/assets/curso/temas/t2/img-7.png', alt='img7')
     .titulo-segundo.color-primario
-      h2 2.2 Merchandising y ciclo de vida del producto
+      h2 2.2 <i>Merchandising</i> y ciclo de vida del producto
     p Las estrategias de mercadeo y publicidad que se desarrollan para posicionar un producto determinan en qué etapa se encuentra, siendo necesario seguir el ciclo de vida del producto así:
     ImagenInfografica.color-nuevo.mb-5.col-10.d-block.mx-auto
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t2/img.8.png', alt='img8' )   
-      .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="  " )
+      .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="" )
         .h5.mb-2 Frenar la reducción en las ventas
         p Dinamizar las ventas: 
         p A través de promociones agresivas.
       .tarjeta.color-acento-botones.p-3(x="70%" y="20%" numero="  ")
-        .h5.mb-2 Mantener estrategias que han funcionado
-        p A través de:
-        p Dedicación personal al producto.Excelentes relaciones con los colaboradores
-        P Promociones del producto.
-      .tarjeta.color-acento-botones.p-3(x="13%" y="70%" numero="  ")
         .h5.mb-2 Nace una nueva referencia de producto
-        p Responde a:
-        p ¿Dónde será instalado?
-        p ¿En qué línea?
-        P ¿Cerca a qué productos?
-      .tarjeta.color-acento-botones.p-3(x="83%" y="70%" numero="  ")
+          p Responde a:
+          p ¿Dónde será instalado?
+          p ¿En qué línea?
+          P ¿Cerca a qué productos?
+      .tarjeta.color-acento-botones.p-3(x="13%" y="70%" numero="  ")
+        .h5.mb-2 Mantener estrategias que han funcionado
+          p A través de:
+          p Dedicación personal al producto.Excelentes relaciones con los colaboradores
+          P Promociones del producto.
+        
+      .tarjeta.color-acento-botones.p-3(x="83%" y="70%" numero=" ")
         .h5.mb-2 Generación de estrategias
         p Para
         p Evitar el estancamiento
         p Aumentar ventas
         P Expansión del producto.
     .titulo-segundo.color-primario
-      h2 2.3 Tipos de merchandising 
+      h2 2.3 Tipos de <i>merchandising</i>
     .row.mt-4
       .col-lg-2
         img(src='@/assets/curso/temas/t2/img-13.png', alt='img13')
       .col-lg-10.mb-4
-        p.mb-4 El merchandising se puede clasificar de diferentes maneras dependiendo el enfoque o la finalidad de las estrategias a implementar, así:
+        p.mb-4 El <i>merchandising</i> se puede clasificar de diferentes maneras dependiendo el enfoque o la finalidad de las estrategias a implementar, así:
     .row.mt-5
       .col-lg-2
-      h2 Merchandising de almacén
+      h2 <i>Merchandising</i> de almacén
       p Se encarga del punto de venta y se analiza el espacio desde las siguientes perspectivas:
       TabsA.color-acento-contenido.mb-5
         .tarjeta.color-secundario--borde.p-4(titulo="La ubicación")
@@ -162,10 +163,10 @@
               p Incide en la decisión de compra de los consumidores, por ejemplo, situar el almacén en avenidas que tengan fácil acceso, lugares donde no se dificulte llegar a través de medios de transporte, etc.
             .col-6
               img(src='@/assets/curso/temas/t2/img-14.png', alt='img14')
-        .tarjeta.color-secundario--borde.p-4(titulo="El lay out Interior")
+        .tarjeta.color-secundario--borde.p-4(titulo="El <i>lay out</i> Interior")
           .row
             .col-6
-              h4 El lay out Interior
+              h4 El <i>lay out</i> Interior
               p Se refiere a la distribución de los elementos al interior del punto de venta.
               p Por ejemplo, cuando se visita un lugar existe una tendencia natural de las personas a realizar el recorrido desde la derecha y circular en dirección opuesta a las manecillas del reloj, por lo tanto, ésta se realiza con los productos destino y cajas registradoras a la izquierda, garantizando así el recorrido total del almacén.
               p Además, se deben considerar otros detalles, por pequeños que parezca, como la ubicación de los impulsadores, las estanterías, la música, la iluminación, etc. (Martínez Cruz, H., 2018) .
@@ -218,7 +219,7 @@
           img(src='@/assets/curso/temas/t2/img-18.png', alt='img18')
           .row
             .col.mt-4
-              p Para mayor comprensión del proceso de montaje de una vitrina, se listan los siguientes aspectos que permiten realizar su montaje, utilizando merchandising.
+              p Para mayor comprensión del proceso de montaje de una vitrina, se listan los siguientes aspectos que permiten realizar su montaje, utilizando <i>merchandising</i>.
         .col-lg-8.mb-5
           .cajon.color-secundario1.p-4.mb-4
             ul.lista-ul--color
@@ -246,14 +247,14 @@
                 i.fas.fa-check
                 | Es importante renovarla regularmente; las tendencias cambian.
               li
-    h2.mt-4 Merchandising de presentación y seducción
+    h2.mt-4 <i>Merchandising</i>de presentación y seducción
     .row
       .col-lg-6
         img(src='@/assets/curso/temas/t2/img-19.png', alt='img19')
       .col-lg-6
           p Es el que favorece las compras al interior de la tienda, es decir, convierte los impulsos en una compra, lo que aumenta la rotación de los productos, a través del uso de elementos denominados caprichos, como dulces, golosinas, accesorios, entre otros. Para lograrlo se debe realizar una distribución atractiva del espacio y el punto de venta.
           p La creatividad es un factor fundamental, ya que permite generar un ambiente idóneo para la compra. Se enfoca en aspectos que permitan llegar a través de los sentidos (ojos, oído, olfato, tacto y gusto), los cuales son el medio a través del que el consumidor conoce los productos. De ahí que se encargue de prestar atención a elementos como la iluminación, la música, el mobiliario, los colores y la decoración implementadas, con el objetivo de crear un ambiente agradable, ya ayudará a incrementar las opciones de venta. (Martínez Cruz, 2018). 
-    h2.mt-4 Merchandising de gestión
+    h2.mt-4 <i>Merchandising</i> de gestión
     .row
       .col-lg-12
         p.mt-5 Se encarga de la optimización del espacio según la variedad, la cantidad y rotación de los productos. Permite recopilar información sobre los compradores: la frecuencia de visitas, los patrones de conducta y desplazamientos que tienen en el punto de venta, con el fin de guiar e influir en su comportamiento. Algunos elementos que se deben tener en cuenta son:
@@ -280,8 +281,8 @@
           li
     separador
     .titulo-segundo.color-primario
-      h2 2.4 Implementación de merchandising
-    p Para ampliar los saberes asociados a las ventajas, etapas y tipos de merchandising, se puede hacer uso de algunas de las estrategias y técnicas para su implementación efectiva en el punto de venta.
+      h2 2.4 Implementación de <i>merchandising</i>
+    p Para ampliar los saberes asociados a las ventajas, etapas y tipos de <i>merchandising</i>, se puede hacer uso de algunas de las estrategias y técnicas para su implementación efectiva en el punto de venta.
     
     ImagenInfografica.color-secundario.mb-5.col-8.d-block.mx-auto
       template(v-slot:imagen)
@@ -299,7 +300,7 @@
         p d. Personales: personajes caracterizados, encargados de animar en el punto de venta. 
       .tarjeta.color-acento-botones.p-3(x="66%" y="73%" numero="")
         .h5.mb-2 Exhibición: 
-        p Exposición del producto mediante souvenirs (Material POP) y degustaciones.
+        p Exposición del producto mediante <i>souvenirs</i> (Material POP) y degustaciones.
       .tarjeta.color-acento-botones.p-3(x="33%" y="74%" numero="")
         .h5.mb-2 Ubicación:
         p Ubicar los productos de manera estratégica y accesible. No se debe generar algún tipo de obstáculo, por ejemplo, desplazarse hasta la bodega
@@ -310,8 +311,8 @@
         .h5.mb-2 Capacitación del personal
         p Realizar capacitación constante al personal, para garantizar una excelente atención al cliente.
     .titulo-segundo.color-primario
-      h2 2.5 Técnicas de merchandising
-    p.mt-5 Es hora de ver las técnicas que se pueden implementar para desarrollar el merchandising.
+      h2 2.5 Técnicas de <i>merchandising</i>
+    p.mt-5 Es hora de ver las técnicas que se pueden implementar para desarrollar el <i>merchandising</i>.
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .row.mb-5
