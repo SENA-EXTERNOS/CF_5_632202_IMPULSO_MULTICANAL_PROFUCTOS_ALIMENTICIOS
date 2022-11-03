@@ -165,7 +165,7 @@
     h3.mt-5  Tipos de material POP
     p.mt-3 Los materiales POP se dividen en dos importantes categorías, según su finalidad para generar recordación entre los clientes y lograr que estos recomienden la marca o realicen compras futuras. 
 
-    .tabla-a.color-acento-contenido.my-5 
+    .tabla-a.color-acento-contenido.my-5
       table
         thead
           tr
