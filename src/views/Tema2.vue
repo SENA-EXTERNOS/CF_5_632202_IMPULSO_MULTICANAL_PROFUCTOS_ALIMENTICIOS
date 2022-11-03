@@ -122,23 +122,23 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t2/img_8.png', alt='img8' )   
-      .tarjeta.color-acento-botones.p-3(x="20%" y="18%" numero="." )
+      .tarjeta.color-acento-botones.p-3(x="30%" y="8%" numero=" " )
         .h5.mb-2 Frenar la reducción en las ventas
         p Dinamizar las ventas: 
         p A través de promociones agresivas.
-      .tarjeta.color-acento-botones.p-3(x="80%" y="20%" numero=".")
+      .tarjeta.color-acento-botones.p-3(x="70%" y="10%" numero="")
         .h5.mb-2 Nace una nueva referencia de producto
           p Responde a:
           p ¿Dónde será instalado?
           p ¿En qué línea?
           P ¿Cerca a qué productos?
-      .tarjeta.color-acento-botones.p-3(x="23%" y="70%" numero=".")
+      .tarjeta.color-acento-botones.p-3(x="30%" y="60%" numero=" ")
         .h5.mb-2 Mantener estrategias que han funcionado
           p A través de:
           p Dedicación personal al producto.Excelentes relaciones con los colaboradores
           P Promociones del producto.
         
-      .tarjeta.color-acento-botones.p-3(x="83%" y="70%" numero=".")
+      .tarjeta.color-acento-botones.p-3(x="70%" y="60%" numero=" ")
         .h5.mb-2 Generación de estrategias
         p Para
         p Evitar el estancamiento
