@@ -48,7 +48,7 @@
         .col-lg-10.d-block.mx-auto 
           .cajon.color-acento-contenido.p-4.mb-4.d
             p Se puede clasificar el material en dos tipos, así:
-            p <b>Materiales P.O.P. temporales:</b> incrementan el impacto de la marca o producto en el punto de venta por un breve espacio de tiempo. Este tipo de material está diseñado para durar alrededor de 2 o 3 meses.
+            p <b>Materiales P.O.P temporales:</b> incrementan el impacto de la marca o producto en el punto de venta por un breve espacio de tiempo. Este tipo de material está diseñado para durar alrededor de 2 o 3 meses.
             p <b>Material P.O.P permanente:</b> garantiza su permanencia en el punto de venta hasta por 3 años, permitiendo la exhibición del producto por un largo periodo de tiempo o su uso en diferentes tendencias.
       h3.mt-3 Funciones del material POP
       p.mt-3.mb-5 Como funciones distintivas en el uso de material POP se tienen:
@@ -79,7 +79,7 @@
 
     Separador
     .titulo-segundo.color-primario
-      h2 3.1.	Ventajas del material P.O.P.
+      h2 3.1.	Ventajas del material P.O.P
     p.mb-4 Los beneficios para la empresa al implementar materiales P.O.P son:
 
     PasosB.color-acento-botones.mt-5
@@ -112,10 +112,6 @@
           img(src='@/assets/curso/temas/t3/img-30.png' alt='img30')
           .titulo-principal.color-acento-contenido
           p.mb-5 <b>Juegos y concursos inmediatos:</b> este tipo de actividades muestra una gran aceptación entre el público, porque permiten la interacción de manera instantánea y de forma diferente, acercándose al producto y sus ventajas del mismo, con la excusa de obtener premios.
-   
-      
-    
-
     Separador
     .titulo-segundo.color-primario
       h2 3.2.	Utilización de material P.O.P
