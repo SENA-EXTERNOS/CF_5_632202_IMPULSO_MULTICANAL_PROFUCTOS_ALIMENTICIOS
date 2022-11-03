@@ -121,7 +121,7 @@
     ImagenInfografica.color-nuevo.mb-5.col-10.d-block.mx-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/t2/img.8.png', alt='img8' )   
+          img(src='@/assets/curso/temas/t2/img_8.png', alt='img8' )   
       .tarjeta.color-acento-botones.p-3(x="20%" y="20%" numero="" )
         .h5.mb-2 Frenar la reducción en las ventas
         p Dinamizar las ventas: 
