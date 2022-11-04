@@ -79,7 +79,7 @@
 
     Separador
     .titulo-segundo.color-primario
-      h2 3.1.	Ventajas del material P.O.P
+      h2 3.1	Ventajas del material P.O.P
     p.mb-4 Los beneficios para la empresa al implementar materiales P.O.P son:
 
     PasosB.color-acento-botones.mt-5
@@ -114,7 +114,7 @@
           p.mb-5 <b>Juegos y concursos inmediatos:</b> este tipo de actividades muestra una gran aceptación entre el público, porque permiten la interacción de manera instantánea y de forma diferente, acercándose al producto y sus ventajas del mismo, con la excusa de obtener premios.
     Separador
     .titulo-segundo.color-primario
-      h2 3.2.	Utilización de material P.O.P
+      h2 3.2	Utilización de material P.O.P
     .row
       .col-lg-2
         img(src='@/assets/curso/temas/t3/img-17.png', alt='img1')
