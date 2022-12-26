@@ -14,7 +14,7 @@
     h2.mt-4 Objetivos del material P.O.P
     .row.mt-5 
       .col-3
-        p Los materiales P.O.P tienen unos objetivos determinados así:
+        p Para dar cumplimiento a lo que se desea con los materiales P.O.P. estos deben tener unos objetivos determinados así:
       .col-9
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta.color-adicional-2.p-4
@@ -44,14 +44,14 @@
             p.text-center <b>Informar acerca de descuentos y/o nuevos productos.</b>
 
     h3 Clasificación del material P.O.P
-      .row
+      .row.mt-3
         .col-lg-10.d-block.mx-auto 
           .cajon.color-acento-contenido.p-4.mb-4.d
             p Se puede clasificar el material en dos tipos, así:
             p <b>Materiales P.O.P temporales:</b> incrementan el impacto de la marca o producto en el punto de venta por un breve espacio de tiempo. Este tipo de material está diseñado para durar alrededor de 2 o 3 meses.
             p <b>Material P.O.P permanente:</b> garantiza su permanencia en el punto de venta hasta por 3 años, permitiendo la exhibición del producto por un largo periodo de tiempo o su uso en diferentes tendencias.
       h3.mt-3 Funciones del material POP
-      p.mt-3.mb-5 Como funciones distintivas en el uso de material POP se tienen:
+      p.mt-3.mb-5 Es así como se llega a las funciones distintivas en el uso de material POP y estas deben contener:
         .card-info
           div.card_img
             img(src='@/assets/curso/temas/t3/img-12.svg' alt='img-7')
@@ -289,7 +289,7 @@
                   h3.mb-1 Tipos de Material POP
                   p.text-small.mb-0 Para ampliar la información respecto al uso y funciones de los elementos de promoción, puede ver el documento ANEXO 1  
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/ANEXO1_TipodematerialPOP.xlsx')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Tipo_material_POP.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 </template>

@@ -12,11 +12,11 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img-1.png')})`}")
           .bloque-texto-g__texto.p-4
-            p.mb-0 Son todas las actividades que impulsan la compra. El término hace referencia etimológicamente a la acción de mercancía, por tanto, involucra todas las estrategias o acciones dedicadas a la promoción de productos, así como aquellas destinadas a estimular las compras por impulso, es decir, las que no estaban pensadas al momento de ingresar a un determinado establecimiento comercial.
-    Separador
-    .titulo-segundo.color-primario
-      h2 2.1  <i>Objetivos del Merchandising</i>
-    p.mb-4 En el <i>merchandising</i> se deben establecer objetivos, y, a partir de éstos, generar las estrategias. Los mismos se pueden identificar a continuación:
+            p.mb-0 En las ventas, significa todas las actividades que impulsan la compra. Este término hace referencia etimológicamente a la acción de mercancía, por tanto, involucra todas las estrategias o acciones dedicadas a la promoción de productos, así como aquellas destinadas a estimular las compras por impulso, es decir, las que no estaban pensadas al momento de ingresar a un determinado establecimiento comercial.
+            
+    .row.mt-5
+      h3 Objetivos del<i> merchandising </i>
+    p.mb-4 En el <i>merchandising</i>  se deben establecer objetivos, y, a partir de éstos, generar las estrategias. Los mismos se pueden identificar a continuación:
     .row
       .col-md-5
         img(src='@/assets/curso/temas/t2/img-2.png', alt='img2')
@@ -116,7 +116,7 @@
             figure
               img(src='@/assets/curso/temas/t2/img-7.png', alt='img7')
     .titulo-segundo.color-primario
-      h2 2.2 <i>Merchandising</i> y ciclo de vida del producto
+      h2 2.1 <i>Merchandising</i> y ciclo de vida del producto
     p Las estrategias de mercadeo y publicidad que se desarrollan para posicionar un producto determinan en qué etapa se encuentra, siendo necesario seguir el ciclo de vida del producto así:
     ImagenInfografica.color-nuevo.mb-5.col-10.d-block.mx-auto
       template(v-slot:imagen)
@@ -145,7 +145,7 @@
         p Aumentar ventas
         P Expansión del producto.
     .titulo-segundo.color-primario
-      h2 2.3 Tipos de <i>merchandising</i>
+      h2 2.2 Tipos de <i>merchandising</i>
     .row.mt-4
       .col-lg-2
         img(src='@/assets/curso/temas/t2/img-13.png', alt='img13')
@@ -163,7 +163,7 @@
               p Incide en la decisión de compra de los consumidores, por ejemplo, situar el almacén en avenidas que tengan fácil acceso, lugares donde no se dificulte llegar a través de medios de transporte, etc.
             .col-6
               img(src='@/assets/curso/temas/t2/img-14.png', alt='img14')
-        .tarjeta.color-secundario--borde.p-4(titulo="El <i>lay out</i> Interior")
+        .tarjeta.color-secundario--borde.p-4(titulo="El <i>layout</i> Interior")
           .row
             .col-6
               h4 El <i>lay out</i> Interior
@@ -279,11 +279,12 @@
             i.fas.fa-check
             | La cantidad, el producto, el lugar y una acomodación adecuada del mismo.
           li
-    separador
-    .titulo-segundo.color-primario
-      h2 2.4 Implementación de <i>merchandising</i>
-    p Para ampliar los saberes asociados a las ventajas, etapas y tipos de <i>merchandising</i>, se puede hacer uso de algunas de las estrategias y técnicas para su implementación efectiva en el punto de venta.
     
+    .row.mt-5
+      h3 Implementación de <i>merchandising</i>
+
+      p Las ventajas, etapas y tipos de #[i merchandising], hacen parte de su implementación y se puede hacer uso de algunas de las estrategias y técnicas para su implementación efectiva en el punto de venta.
+
     ImagenInfografica.color-secundario.mb-5.col-8.d-block.mx-auto
       template(v-slot:imagen)
         figure
@@ -310,9 +311,11 @@
       .tarjeta.color-acento-botones.p-3(x="37%" y="21%" numero="")
         .h5.mb-2 Capacitación del personal
         p Realizar capacitación constante al personal, para garantizar una excelente atención al cliente.
-    .titulo-segundo.color-primario
-      h2 2.5 Técnicas de <i>merchandising</i>
-    p.mt-5 Es hora de ver las técnicas que se pueden implementar para desarrollar el <i>merchandising</i>.
+    
+    .row.mt-5
+      h3 Técnicas de <i>merchandising</i>
+      
+      p.mt-5 Tal como se ha observado cada una de las herramientas del #[i merchandising], ahora se verá, las técnicas que se pueden implementar para garantizar un proceso organizado y que se mantenga en el tiempo.
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .row.mb-5

@@ -2,14 +2,14 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-sexto.color-acento-contenido
-      h5 <b>Impulso Multicanal de Productos Alimenticios</b> 
-      p.mb-5 Síntesis: Acondicionamiento y condiciones de punto de venta
-    p En el siguiente diagrama encontrará un resumen de conceptos y palabras claves de los temas abordados en este contenido formativo.
+
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis/sintesis.png", alt="sintesis")
+          figcaption.mt-3 #[i Nota: Fuente. Elaboración propia del experto.]
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis-3.pdf')" target="_blank")
           .anexo__icono

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Acondicionamiento y condiciones de punto de venta',
     descripcionCurso:
-      'En el momento de la compra son varios los factores determinantes que permiten su realización, que requieren pasar de exhibir un producto a generar una experiencia en el punto de venta, para lograrlo es necesario la implementación de estrategias que permitan al cliente vivir un momento especial, y lo más importante, que sea repetitivo, aumentando las ventas de la marca.',
+      'En la compra son varios los factores determinantes que permiten su realización, que requieren pasar de exhibir un producto a generar una experiencia en el punto de venta, para lograrlo es necesario la implementación de estrategias que permitan al cliente vivir un momento especial, que sea repetitivo, aumentando las ventas de la marca.',
 
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal1.png'),
     imagenesDecorativasBanner: [
@@ -65,32 +65,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Objetivos del <i>merchandising</i>',
+            titulo: '<i>Merchandising</i> y ciclo de vida del producto',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: '<i>Merchandising</i> y ciclo de vida del producto',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
             titulo: 'Tipos de <i>merchandising</i>',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Implementación de <i>merchandising</i>',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Técnicas de <i>merchandising</i>',
-            hash: 't_2_5',
+            hash: 't_2_2',
           },
         ],
       },
