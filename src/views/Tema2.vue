@@ -271,7 +271,7 @@
         ul.lista-ul--color
           li
             i.fas.fa-check
-            | La distribución y disposición, tanto del espacio, como del punto de venta
+            | La distribución y disposición, tanto del espacio, como del punto de venta.
           li
           li
             i.fas.fa-check
