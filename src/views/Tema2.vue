@@ -253,7 +253,7 @@
                 i.fas.fa-check
                 | Es importante renovarla regularmente; las tendencias cambian.
               li
-    h2.mt-4 <i>Merchandising</i>de presentación y seducción
+    h2.mt-4 <i>Merchandising</i> de presentación y seducción
     .row
       .col-lg-6
         img(src='@/assets/curso/temas/t2/img-19.png', alt='img19')
