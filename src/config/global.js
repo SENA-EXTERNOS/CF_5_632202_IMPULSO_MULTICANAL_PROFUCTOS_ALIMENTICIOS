@@ -46,12 +46,6 @@ export default {
             titulo: 'Mobiliario comercial',
             hash: 't_1_1',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Etapas de un proyecto de mobiliario comercial',
-            hash: 't_1_2',
-          },
         ],
       },
 

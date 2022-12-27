@@ -14,8 +14,9 @@
           p Siempre se debe tener presente que la adecuación y la disposición de los diferentes elementos que se utilizan para la oferta de productos son indispensables, porque permiten garantizar la calidad del producto alimenticio y el aumento en las ventas. Es desde ese momento que inicia el proceso de compra, incentivando los diferentes elementos necesarios que la inciten. 
         .cajon.p-4
           p Cuando se oferta un producto, todas las condiciones son esenciales, desde el empaque, los atributos, la promoción que se realice, así como los canales empleados para la oferta del mismo. El mercado es cambiante y se debe adaptar a los requerimientos que implican los deseos del consumidor, permitiendo llegar a diferentes escenarios de este tipo, por ende, lograr aumentar las ventas.
-          zz
+          
     Separador
+    #t_1_1
     .titulo-segundo.color-primario
       h2 1.1  Mobiliario comercial
     .row

@@ -115,6 +115,9 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/t2/img-7.png', alt='img7')
+    
+    #t_2_1
+
     .titulo-segundo.color-primario
       h2 2.1 <i>Merchandising</i> y ciclo de vida del producto
     p Las estrategias de mercadeo y publicidad que se desarrollan para posicionar un producto determinan en qué etapa se encuentra, siendo necesario seguir el ciclo de vida del producto así:
@@ -144,6 +147,9 @@
         p Evitar el estancamiento
         p Aumentar ventas
         P Expansión del producto.
+
+    #t_2_2
+
     .titulo-segundo.color-primario
       h2 2.2 Tipos de <i>merchandising</i>
     .row.mt-4

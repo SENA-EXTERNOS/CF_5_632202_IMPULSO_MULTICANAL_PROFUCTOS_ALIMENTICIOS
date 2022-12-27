@@ -78,6 +78,7 @@
                   p.mb-5 Su función principal es apoyar el proceso de comercialización, incrementando las ventas, exhibiendo del producto de forma ingeniosa, recalcando los atributos del mismo, para que el consumidor pueda inspeccionar cuidadosamente el artículo y sentirlo necesario, creando una experiencia, y, así, garantizando la venta.
 
     Separador
+    #t_3_1
     .titulo-segundo.color-primario
       h2 3.1	Ventajas del material P.O.P
     p.mb-4 Los beneficios para la empresa al implementar materiales P.O.P son:
@@ -113,6 +114,7 @@
           .titulo-principal.color-acento-contenido
           p.mb-5 <b>Juegos y concursos inmediatos:</b> este tipo de actividades muestra una gran aceptación entre el público, porque permiten la interacción de manera instantánea y de forma diferente, acercándose al producto y sus ventajas del mismo, con la excusa de obtener premios.
     Separador
+    #t_3_2
     .titulo-segundo.color-primario
       h2 3.2	Utilización de material P.O.P
     .row
