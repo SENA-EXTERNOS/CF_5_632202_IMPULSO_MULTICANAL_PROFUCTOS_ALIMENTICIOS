@@ -157,7 +157,7 @@ export default {
     {
       tema: '<i>Merchandising</i>',
       referencia:
-        'Avella J, Rojas M., 2017, evaluación de la respuesta sensorial en canastas elaboradas a partir de papel periódico en la tienda unilibrista, Universidad Libre',
+        'Avella J, Rojas M., 2017, <em>evaluación de la respuesta sensorial en canastas elaboradas a partir de papel periódico en la tienda unilibrista</em>, Universidad Libre',
       tipo: 'Tesis',
       link:
         'https://repository.unilibre.edu.co/bitstream/handle/10901/17938/TESIS%20FINAL%20PARA%20OBTENER%20EL%20GRADO%20DE%20ADMINISTRACION%20DE%20EMPRESAS%20PDF.pdf?sequence=1',
@@ -165,14 +165,14 @@ export default {
     {
       tema: 'Mobiliario Comercial',
       referencia:
-        'Benthan E., Guzmán A.,2018, Mobiliario para la exhibición y almacenamiento de productos comercializados en las viviendas productivas de interés prioritario del barrio La Aurora, Universidad de San Buenaventura Colombia',
+        'Benthan E., Guzmán A.,2018, <em>Mobiliario para la exhibición y almacenamiento de productos comercializados en las viviendas productivas de interés prioritario del barrio La Aurora</em>, Universidad de San Buenaventura Colombia',
       tipo: 'Tesis',
       link: 'https://core.ac.uk/download/199658417.pdf',
     },
     {
       tema: 'Seguridad y salud en el trabajo',
       referencia:
-        'Decreto 1072 de 2015 [con fuerza de ley]. Por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo. 26 de mayo de 2015. ',
+        'Decreto 1072 de 2015 [Ministerio del Trabajo]. Por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo. 26 de mayo de 2015.',
       tipo: 'Decreto',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/0/DUR+1072+Sector+Trabajo+Actualizado+a+Diciembre+20+de+2021.pdf/f1f86400-2b37-0582-5557-87a5d3ea8227?t=1640204850717 ',
@@ -238,12 +238,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Decreto 1072 de 2015. [Ministerio del Trabajo] Por medio del cual se hace la compilación de todas las normas, decretos, leyes y resoluciones correspondientes a la seguridad y salud en el trabajo, así como salud ocupacional en Colombia. 26 de mayo de 2015.',
-      link: '',
-    },
-    {
-      referencia:
-        'Gómez Cuevas, P. A., y Naranjo Suárez, K. (2018). Implementación del sistema de seguridad y salud en el trabajo de acuerdo a los lineamientos establecidos por el Decreto 1072 de 2015 en la empresa Occidental de Ventas Ltda. [Trabajo de grado. Fundación Universidad de América] Repositorio Institucional Universidad de América.',
+        'Gómez Cuevas, P. A., y Naranjo Suárez, K. (2018). <em>Implementación del sistema de seguridad y salud en el trabajo de acuerdo a los lineamientos establecidos por el Decreto 1072 de 2015</em> en la empresa Occidental de Ventas Ltda. [Trabajo de grado. Fundación Universidad de América] Repositorio Institucional Universidad de América.',
       link: 'https://repository.uamerica.edu.co/handle/20.500.11839/6865',
     },
     {
@@ -253,7 +248,7 @@ export default {
     },
     {
       referencia:
-        'Yate Arévalo, A. (2012).<i> Material P.O.P. Publicidad en punto de venta.  Ecoe Ediciones</i>',
+        'Yate Arévalo, A. (2012).<em> Material P.O.P. Publicidad en punto de venta</em>.  Ecoe Ediciones.',
       link: '',
     },
   ],
