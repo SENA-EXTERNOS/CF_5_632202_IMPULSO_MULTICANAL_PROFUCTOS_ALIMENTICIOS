@@ -146,7 +146,7 @@
       .col-md-10.d-block.mx-auto
         .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/t4/img-9.png')})`}")
+            :style="{'background-image': `url(${require('@/assets/curso/temas/t4/img9.svg')})`}")
           .bloque-texto-g__texto.p-4
             p.mb-0 Cada uno de estos riesgos, sean locativos o psicosociales, va a desencadenar en algún tipo de accidente que puede traer consecuencias a la empresa. Sumado a esto, el incumplimiento de alguna norma de seguridad y salud en el trabajo puede llevar a una enfermedad laboral, lo cual imposibilitaría la realización de las funciones asignadas al colaborador. Por esto es de suma importancia que cada una de las personas que trabaja en una gran superficie, o en manipulación de alimentos, tenga muy claras sus funciones y los riesgos a los que está expuesto.
 
