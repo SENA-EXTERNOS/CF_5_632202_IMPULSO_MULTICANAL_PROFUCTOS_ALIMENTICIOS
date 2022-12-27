@@ -109,35 +109,35 @@
             ul.lista-ul--color
               li
                 i.fas.fa-check
-                | Estrés
+                | Estrés.
               li
               li
                 i.fas.fa-check
-                | Fatiga mental
+                | Fatiga mental.
               li
               li
                 i.fas.fa-check
-                | Robos o atracos
+                | Robos o atracos.
               li
               li
                 i.fas.fa-check
-                | Conflictos en el lugar de trabajo
+                | Conflictos en el lugar de trabajo.
               li
               li
                 i.fas.fa-check
-                | Acoso laboral
+                | Acoso laboral.
               li
               li
                 i.fas.fa-check
-                | Violencia en el espacio de trabajo
+                | Violencia en el espacio de trabajo.
               li
               li
                 i.fas.fa-check
-                | Discriminación laboral
+                | Discriminación laboral.
               li
               li
                 i.fas.fa-check
-                | Sobrecarga
+                | Sobrecarga.
               li
           .col-md-6
             figure
