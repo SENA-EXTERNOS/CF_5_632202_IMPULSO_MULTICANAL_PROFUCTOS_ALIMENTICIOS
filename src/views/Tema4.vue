@@ -63,35 +63,35 @@
             ul.lista-ul--color
               li
                 i.fas.fa-check
-                | Caídas a nivel en áreas de circulación
+                | Caídas a nivel en áreas de circulación.
               li
               li
                 i.fas.fa-check
-                | Caída de techos o cubiertas
+                | Caída de techos o cubiertas.
               li
               li
                 i.fas.fa-check
-                | Uso de máquinas y equipos
+                | Uso de máquinas y equipos.
               li
               li
                 i.fas.fa-check
-                | Caída de arrumes, estanterías
+                | Caída de arrumes, estanterías.
               li
               li
                 i.fas.fa-check
-                | Zonas de trabajo irregulares (sin adherencia, con desniveles)
+                | Zonas de trabajo irregulares (sin adherencia, con desniveles).
               li
               li
                 i.fas.fa-check
-                | Escaleras, escalas y rampas inadecuadas
+                | Escaleras, escalas y rampas inadecuadas.
               li
               li
                 i.fas.fa-check
-                | Uso de barandas y puertas,
+                | Uso de barandas y puertas.
               li
               li
                 i.fas.fa-check
-                | Baños, cuartos de cambio y suministros de agua
+                | Baños, cuartos de cambio y suministros de agua.
               li
               li
                 i.fas.fa-check
