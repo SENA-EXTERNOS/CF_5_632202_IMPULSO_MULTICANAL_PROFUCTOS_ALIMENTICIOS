@@ -34,8 +34,8 @@
       .col-lg-10
         p.mb-4 Cuando se realiza la disposición de un proyecto mobiliario, es necesario establecer unas etapas o fases, con cada una de las actividades que se desarrollan allí y son acordes a cada una, guardando coherencia entre ellas, es por eso que se hace necesario tenerlas presentes y así tenerlas como material de apoyo y planificación. El siguiente recurso le ayudará a percibirlas y entenderlas a partir de su descripción. 
     .video.mt-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption Video: Leyenda del video
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/iBCEfOuMoQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    figcaption Video: El proyecto mobiliario comercial
 
 </template>
 <script>
