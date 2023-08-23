@@ -27,7 +27,7 @@
               p Destacar un determinado producto respecto a otros o hacer más notorias sus características, promoviendo la compra del mismo.
           .row(titulo="Dirigir al cliente hacia el producto:")
             .col-md-12.mb-4.mb-md-0
-              p Desarrollar estrategias que permitan impulsar el cliente hacia un producto o zona específica en la tienda. Por ejemplo, ubicar zonas de juegos infantiles posteriores a zonas de comidas, ya que en muchas ocasiones al transitar por éstas con el único fin de llegar allí, se estimula la compra de productos alimenticios.
+              p Desarrollar estrategias que permitan impulsar el cliente hacia un producto o zona específica en la tienda. Por ejemplo, ubicar zonas de juegos infantiles posteriores a zonas de comidas, ya que, en muchas ocasiones al transitar por éstas con el único fin de llegar allí, se estimula la compra de productos alimenticios.
           .row(titulo="Facilitar la acción de compra:")
             .col-md-12.mb-4.mb-md-0
               p Para esto se realizan observaciones en el comportamiento de los consumidores, por ejemplo, la circulación que realizan al ingresar al establecimiento comercial. Posteriormente, se ubican de forma estratégica los productos. También, el colocar a la altura de los ojos aquellos que se desea sean comprados por impulso, y a una superior o a nivel del piso, elementos de primera necesidad.
@@ -43,7 +43,6 @@
             p.mb-0 Las estrategias para aumentar las ventas están presentes en cada uno de los eslabones de la cadena de suministro, entre las que está el ‘<i>merchandising</i> del fabricante’, que son acciones del fabricante en el punto de venta destinado, orientadas al comprador, al establecimiento y al personal, también se encuentra el ‘<i>merchandising</i> del distribuidor’ que son todas las acciones del minorista en su propio establecimiento, este busca no solo vender, sino optimizar la rentabilidad de la superficie en la que se encuentran los productos y la cual está destinada exclusivamente a la venta.(Martínez Cruz, 2018). 
     .row.mt-5
       h4 Beneficios del <i>Merchandising</i>
-        p.mt-4.mb-4 En el <i>merchandising</i> se deben establecer objetivos, y, a partir de éstos, generar las estrategias. Los mismos se pueden identificar a continuación:
       .col-11.d-block.mx-auto 
           ul.lista-ul--color
             li 
@@ -131,15 +130,17 @@
         p A través de promociones agresivas.
       .tarjeta.color-acento-botones.p-3(x="70%" y="10%" numero="")
         .h5.mb-2 Nace una nueva referencia de producto
-          p Responde a:
-          p ¿Dónde será instalado?
-          p ¿En qué línea?
-          P ¿Cerca a qué productos?
+        p Responde a:
+        p ¿Dónde será instalado?
+        p ¿En qué línea?
+        P ¿Cerca a qué productos?
       .tarjeta.color-acento-botones.p-3(x="30%" y="60%" numero=" ")
         .h5.mb-2 Mantener estrategias que han funcionado
-          p A través de:
-          p Dedicación personal al producto.Excelentes relaciones con los colaboradores
-          P Promociones del producto.
+        p A través de:
+        p Dedicación personal al producto.
+          br
+          |Excelentes relaciones con los colaboradores.
+        P Promociones del producto.
         
       .tarjeta.color-acento-botones.p-3(x="70%" y="60%" numero=" ")
         .h5.mb-2 Generación de estrategias
@@ -175,7 +176,7 @@
               h4 El <i>lay out</i> Interior
               p Se refiere a la distribución de los elementos al interior del punto de venta.
               p Por ejemplo, cuando se visita un lugar existe una tendencia natural de las personas a realizar el recorrido desde la derecha y circular en dirección opuesta a las manecillas del reloj, por lo tanto, ésta se realiza con los productos destino y cajas registradoras a la izquierda, garantizando así el recorrido total del almacén.
-              p Además, se deben considerar otros detalles, por pequeños que parezca, como la ubicación de los impulsadores, las estanterías, la música, la iluminación, etc. (Martínez Cruz, H., 2018) .
+              p Además, se deben considerar otros detalles, por pequeños que parezca, como la ubicación de los impulsadores, las estanterías, la música, la iluminación, etc. (Martínez Cruz, H., 2018).
             .col-6
               img(src='@/assets/curso/temas/t2/img-15.png', alt='img15')
         .tarjeta.color-secundario--borde.p-4(titulo="La Fachada")
@@ -321,7 +322,7 @@
     .row.mt-5
       h3 Técnicas de <i>merchandising</i>
       
-      p.mt-5 Tal como se ha observado cada una de las herramientas del #[i merchandising], ahora se verá, las técnicas que se pueden implementar para garantizar un proceso organizado y que se mantenga en el tiempo.
+      p.mt-5.text-center Tal como se ha observado cada una de las herramientas del #[i merchandising], ahora se verá, las técnicas que se pueden implementar para garantizar un proceso organizado y que se mantenga en el tiempo.
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .row.mb-5

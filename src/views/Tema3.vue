@@ -36,7 +36,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/t3/img-5.png' alt='img5')
-            p <b>Enfatizar la exhibición del producto y distinguirlo de otros.</b>          
+            p.text-center <b>Enfatizar la exhibición del producto y distinguirlo de otros.</b>          
           .tarjeta.color-adicional-2.p-4
             .row.justify-content-center.mb-3
               .col-8
@@ -125,37 +125,37 @@
     p.mt-5 Por ello, es importante verificar la utilización del mismo y tener en cuenta los siguientes aspectos.
 
     .row.mt-5.mb-5.d-flex.justify-content-center.align-items-center
-      .col-sm-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-19.png')})`}")
-            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3
+            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3.p-4
               p.mb-0 El mensaje debe ser sencillo, breve, es decir, no más de 5 palabras, claro, conciso y debe incentivar la compra.
-      .col-sm-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-20.png')})`}")
-            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3
+            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3.p-4
               p.mb-0 El mensaje debe ser legible y visible, tener cuidado con las combinaciones de colores.
-      .col-sm-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-21.png')})`}")
-            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3
+            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3.p-4
               p.mb-0 El precio debe estar en un lugar apropiado, que sea claro y fácil de apreciar.
 
-      .col-sm-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-22.png')})`}")
-            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3
+            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3.p-4
               p.mb-0 Al momento de implementarlo se debe procurar no opacar o tapar otros productos que se encuentren los estantes.
 
-      .col-sm-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -289,7 +289,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Tipos de Material POP
-                  p.text-small.mb-0 Para ampliar la información respecto al uso y funciones de los elementos de promoción, puede ver el documento ANEXO 1  
+                  p.mb-0 Para ampliar la información respecto al uso y funciones de los elementos de promoción, puede ver el documento ANEXO 1  
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('downloads/Tipo_material_POP.pdf')" target="_blank")
                     span Descargar

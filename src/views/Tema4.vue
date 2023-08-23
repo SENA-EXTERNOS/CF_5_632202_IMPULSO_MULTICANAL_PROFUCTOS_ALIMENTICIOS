@@ -25,13 +25,13 @@
     .row.mb-5
       .col-md-6.mb-5.mb-md-0
         LineaTiempoD.color-secundario
-          p.text-small(numero="1" titulo="Planificar:") proceso inicial a través del cual se identifican las actividades que se realizan de forma incorrecta y necesitan de mejoras para garantizar la seguridad y salud de los trabajadores, con el fin de proyectar estrategias de solución. 
+          p(numero="1" titulo="Planificar:") proceso inicial a través del cual se identifican las actividades que se realizan de forma incorrecta y necesitan de mejoras para garantizar la seguridad y salud de los trabajadores, con el fin de proyectar estrategias de solución. 
           
-          p.text-small(numero="2" titulo="Hacer:") se procede con la implementación de las estrategias y posibles soluciones definidas en la etapa anterior. Para esto se involucra a todas las áreas de la compañía, capacitándolas en las nuevas prácticas, así como todo el desarrollo de infraestructura u otro aspecto que deba realizarse.
+          p(numero="2" titulo="Hacer:") se procede con la implementación de las estrategias y posibles soluciones definidas en la etapa anterior. Para esto se involucra a todas las áreas de la compañía, capacitándolas en las nuevas prácticas, así como todo el desarrollo de infraestructura u otro aspecto que deba realizarse.
           
-          p.text-small(numero="3" titulo="Verificar:") es fundamental garantizar la vigilancia y revisión constante de las normas implementadas, para garantizar la seguridad de los colaboradores. Confirmar los resultados que se obtienen con las ideas implementadas, evitando la ejecución de éstas de manera errónea.
+          p(numero="3" titulo="Verificar:") es fundamental garantizar la vigilancia y revisión constante de las normas implementadas, para garantizar la seguridad de los colaboradores. Confirmar los resultados que se obtienen con las ideas implementadas, evitando la ejecución de éstas de manera errónea.
           
-          p.text-small(numero="4" titulo="Actuar:") se realizan las correcciones o adiciones a las estrategias planteadas, para garantizar la mejora continua y actualización en términos de normativa y seguridad de los colaboradores, buscando obtener los mejores beneficios para los empleados. 
+          p(numero="4" titulo="Actuar:") se realizan las correcciones o adiciones a las estrategias planteadas, para garantizar la mejora continua y actualización en términos de normativa y seguridad de los colaboradores, buscando obtener los mejores beneficios para los empleados. 
       .col-md-6.mb-5.mb-md-0
         img(src='@/assets/curso/temas/t4/img-3.png', alt='img3')
     .row.d-flex.justify-content-center.align-items-center
@@ -44,7 +44,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Implementación del SG-SST
-                  p.text-small.mb-0 Con ánimo de ampliar sus conocimientos respecto a la implementación del SG-SST, se invita a revisar el ANEXO 2 
+                  p.mb-0 Con ánimo de ampliar sus conocimientos respecto a la implementación del SG-SST, se invita a revisar el ANEXO 2 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('downloads/ANEXO 2_Implementacion SG_SST.pdf')" target="_blank")
                     span Descargar

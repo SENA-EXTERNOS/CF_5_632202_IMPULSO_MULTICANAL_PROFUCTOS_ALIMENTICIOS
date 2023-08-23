@@ -9,7 +9,6 @@
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis/sintesis.png", alt="sintesis")
-          figcaption.mt-3 #[i Nota: Fuente. Elaboración propia del experto.]
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis-3.pdf')" target="_blank")
           .anexo__icono

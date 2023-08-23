@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-primario
           h2 Arrastrar y soltar
-        p.mb-4 #[b Objetivo] Para validar sus conocimientos a partir de las temáticas presentadas, puede realizar la siguiente actividad en la que debe asociar cada concepto con su respectiva definición.
+        p.mb-4 Para validar sus conocimientos a partir de las temáticas presentadas, puede realizar la siguiente actividad en la que debe asociar cada concepto con su respectiva definición.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
