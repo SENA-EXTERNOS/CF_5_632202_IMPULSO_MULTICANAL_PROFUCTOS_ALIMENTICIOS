@@ -329,7 +329,7 @@
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/img-22.png' alt='img-22')
-            .tarjeta.color-primario.borde_tarjeta
+            .tarjeta.color-primario.borde_tarjeta.text-center
               .text-black.p-4
                 h2.text-center Degustaciones: 
                 p Generan muy buena aceptación en los establecimientos y provocan incrementos de venta.
@@ -337,7 +337,7 @@
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/img-23.png' alt='img-23')
-            .tarjeta.color-primario.borde_tarjeta
+            .tarjeta.color-primario.borde_tarjeta.text-center
               .p-4
                 h2.text-center Demostraciones: 
                 p Se realizan para productos como electrodomésticos, transmitiendo seguridad al cliente.
@@ -345,7 +345,7 @@
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/img-24.png' alt='img-24')
-            .tarjeta.color-primario.borde_tarjeta
+            .tarjeta.color-primario.borde_tarjeta.text-center
               .p-4
                 h2.text-center Pilas y exposiciones masivas de producto: 
                 p Generan sensación de abundancia y provocan un efecto positivo en los compradores.
@@ -353,7 +353,7 @@
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/img-25.png' alt='img-25')
-            .tarjeta.color-primario.borde_tarjeta
+            .tarjeta.color-primario.borde_tarjeta.text-center
               .p-4
                 h2.text-center Cubetas: 
                 p Son contenedores. Exhiben el producto de forma directa, generando la impresión de descuento.
@@ -361,7 +361,7 @@
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/img-26.png' alt='img-26')
-            .tarjeta.color-primario.borde_tarjeta
+            .tarjeta.color-primario.borde_tarjeta.text-center
               .p-4
                 h3.text-center Extensiones de lineal: 
                 p Permiten resaltar un producto sobre los demás en una estantería.
@@ -369,7 +369,7 @@
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/img-27.png' alt='img-27')
-            .tarjeta.color-primario.borde_tarjeta
+            .tarjeta.color-primario.borde_tarjeta.text-center
               .p-4
                 h3.text-center Mástiles: 
                 p Carteles que anuncian algún tipo de descuento, ya sea sobre el mobiliario o colgando del techo.
@@ -377,7 +377,7 @@
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/temas/t2/img-28.png' alt='img-28')
-            .tarjeta.color-primario.borde_tarjeta
+            .tarjeta.color-primario.borde_tarjeta.text-center
               .p-4
                 h2.text-center Señalizadores:
                 p Son indicadores, por ejemplo, flechas en el suelo, que permiten guiar a los clientes.

@@ -125,37 +125,37 @@
     p.mt-5 Por ello, es importante verificar la utilización del mismo y tener en cuenta los siguientes aspectos.
 
     .row.mt-5.mb-5.d-flex.justify-content-center.align-items-center
-      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-lg-6.col-xl-4.h-img-flip.mb-3
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-19.png')})`}")
-            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3.p-4
+            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.p-4
               p.mb-0 El mensaje debe ser sencillo, breve, es decir, no más de 5 palabras, claro, conciso y debe incentivar la compra.
-      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-lg-6.col-xl-4.h-img-flip.mb-3
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-20.png')})`}")
-            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3.p-4
+            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.p-4
               p.mb-0 El mensaje debe ser legible y visible, tener cuidado con las combinaciones de colores.
-      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-lg-6.col-xl-4.h-img-flip.mb-3
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-21.png')})`}")
-            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3.p-4
+            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.p-4
               p.mb-0 El precio debe estar en un lugar apropiado, que sea claro y fácil de apreciar.
 
-      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-lg-6.col-xl-4.h-img-flip.mb-3
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-22.png')})`}")
-            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.px-xl-3.p-4
+            .tarjeta-flip__contenido.d-flex.justify-content-center.align-items-center.p-4
               p.mb-0 Al momento de implementarlo se debe procurar no opacar o tapar otros productos que se encuentren los estantes.
 
-      .col-md-6.col-xl-2.mb-4.mb-xl-0.h-img-flip
+      .col-lg-6.col-xl-4.h-img-flip.mb-3
         .tarjeta.tarjeta-flip.color-primario-opacity(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
