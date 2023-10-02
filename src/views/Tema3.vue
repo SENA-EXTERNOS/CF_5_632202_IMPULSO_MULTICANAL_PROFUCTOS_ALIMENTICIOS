@@ -87,17 +87,17 @@
       .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-13.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
-                p.px-5.mt-5.text-bold Incrementar ventas: 
+                p.px-5.mt-4.text-bold Incrementar ventas: 
                 p.px-5.mt-2 El uso de material POP, ha demostrado impactar positivamente en el proceso de compra de los clientes, porque la mayoría de aquellas espontáneas se dan gracias a su influencia.
       .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-14.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
-                p.px-5.mt-5.text-bold Incrementar la imagen del producto: 
+                p.px-5.mt-4.text-bold Incrementar la imagen del producto: 
                 p.px-5.mt-2 Se pueden enviar mensajes claros y concisos al consumidor sobre los atributos y ventajas de la marca o producto. Esto establece una gran oportunidad para su recordación..
       .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-15.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
-                p.px-5.mt-5.text-bold Reducir gastos de publicidad: 
+                p.px-5.mt-4.text-bold Reducir gastos de publicidad: 
                 p.px-5.mt-2 No todos los comerciantes tienen los recursos y pueden anunciar las mercancías de su tienda a través de periódicos, radio y TV. El material POP en el punto de venta brinda una ocasión ideal para esto.
     p.mb-5 El material POP es mucho más que publicidad en el punto de venta y una estrategia de <i>merchandising</i>, es un ‘medio indispensable de comunicación’ con los clientes, que dinamiza el proceso de venta y compra. Algunas interacciones o medios que se pueden utilizar son:
       .row.mb-5 
@@ -210,7 +210,7 @@
                       | Pisapapeles de escritorios
                     li
                       i.fas.fa-check
-                      | <i>Blocks</i> de notas
+                      | <i>Blocks&nbsp</i> de notas
                     li
                       i.fas.fa-check
                       | Bolsas de mercado o tiendas

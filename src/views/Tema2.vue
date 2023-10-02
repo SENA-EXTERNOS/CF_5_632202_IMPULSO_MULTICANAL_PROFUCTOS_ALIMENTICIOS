@@ -82,7 +82,7 @@
               img(src='@/assets/curso/temas/t2/img-4.png', alt='img4')
             li 
               i.fas.fa-check
-              | Venta de <i>stocks</i> o productos rezagados.
+              | Venta de #[em &nbspstocks&nbsp] o productos rezagados.
             li
               img(src='@/assets/curso/temas/t2/img-4.png', alt='img4')
             li 
@@ -176,7 +176,7 @@
               h4 El <i>lay out</i> Interior
               p Se refiere a la distribución de los elementos al interior del punto de venta.
               p Por ejemplo, cuando se visita un lugar existe una tendencia natural de las personas a realizar el recorrido desde la derecha y circular en dirección opuesta a las manecillas del reloj, por lo tanto, ésta se realiza con los productos destino y cajas registradoras a la izquierda, garantizando así el recorrido total del almacén.
-              p Además, se deben considerar otros detalles, por pequeños que parezca, como la ubicación de los impulsadores, las estanterías, la música, la iluminación, etc. (Martínez Cruz, H., 2018).
+              p Además, se deben considerar otros detalles, por pequeños que parezcan, como la ubicación de los impulsadores, las estanterías, la música, la iluminación, etc. (Martínez Cruz, H., 2018).
             .col-6
               img(src='@/assets/curso/temas/t2/img-15.png', alt='img15')
         .tarjeta.color-secundario--borde.p-4(titulo="La Fachada")
