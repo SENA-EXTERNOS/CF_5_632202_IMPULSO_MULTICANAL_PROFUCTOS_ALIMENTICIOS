@@ -11,10 +11,10 @@
         img(src='@/assets/curso/temas/t3/img-1.png', alt='img1')
       .col-lg-10
         p.mb-5 El <b>Material POP</b> <i>(Point on Purchase)</i>, es utilizado en el punto de venta para la promoción de productos y/o servicios, es decir, apoya la presencia del mismo en la tienda, exaltando sus condiciones, atributos y materiales. Es muy utilizado en situaciones donde no se puede permitir un número alto de vendedores que apoyen el proceso de venta (Yate Arévalo, 2012).
-    h2.mt-4 Objetivos del material P.O.P
+    h2.mt-4 Objetivos del material POP
     .row.mt-5 
       .col-3
-        p Para dar cumplimiento a lo que se desea con los materiales P.O.P. estos deben tener unos objetivos determinados así:
+        p Para dar cumplimiento a lo que se desea con los materiales POP estos deben tener unos objetivos determinados así:
       .col-9
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta.color-adicional-2.p-4
@@ -26,7 +26,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/t3/img-3.png' alt='img3')
-            p.text-center <b>Distinguir fácilmente la ubicación del producto</b>          
+            p.text-center <b>Distinguir fácilmente la ubicación del producto.</b>          
           .tarjeta.color-adicional-2.p-4
             .row.justify-content-center.mb-3
               .col-8
@@ -43,13 +43,13 @@
                 img(src='@/assets/curso/temas/t3/img-6.png' alt='img6')
             p.text-center <b>Informar acerca de descuentos y/o nuevos productos.</b>
 
-    h3 Clasificación del material P.O.P
+    h3 Clasificación del material POP
       .row.mt-3
         .col-lg-10.d-block.mx-auto 
           .cajon.color-acento-contenido.p-4.mb-4.d
             p Se puede clasificar el material en dos tipos, así:
-            p <b>Materiales P.O.P temporales:</b> incrementan el impacto de la marca o producto en el punto de venta por un breve espacio de tiempo. Este tipo de material está diseñado para durar alrededor de 2 o 3 meses.
-            p <b>Material P.O.P permanente:</b> garantiza su permanencia en el punto de venta hasta por 3 años, permitiendo la exhibición del producto por un largo periodo de tiempo o su uso en diferentes tendencias.
+            p <b>Materiales POP temporales:</b> incrementan el impacto de la marca o producto en el punto de venta por un breve espacio de tiempo. Este tipo de material está diseñado para durar alrededor de 2 o 3 meses.
+            p <b>Material POP permanente:</b> garantiza su permanencia en el punto de venta hasta por 3 años, permitiendo la exhibición del producto por un largo periodo de tiempo o su uso en diferentes tendencias.
       h3.mt-3 Funciones del material POP
       p.mt-3.mb-5 Es así como se llega a las funciones distintivas en el uso de material POP y estas deben contener:
         .card-info
@@ -80,8 +80,8 @@
     Separador
     #t_3_1
     .titulo-segundo.color-primario
-      h2 3.1	Ventajas del material P.O.P
-    p.mb-4 Los beneficios para la empresa al implementar materiales P.O.P son:
+      h2 3.1	Ventajas del material POP
+    p.mb-4 Los beneficios para la empresa al implementar materiales POP son:
 
     PasosB.color-acento-botones.mt-5
       .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-13.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
@@ -93,7 +93,7 @@
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
                 p.px-5.mt-4.text-bold Incrementar la imagen del producto: 
-                p.px-5.mt-2 Se pueden enviar mensajes claros y concisos al consumidor sobre los atributos y ventajas de la marca o producto. Esto establece una gran oportunidad para su recordación..
+                p.px-5.mt-2 Se pueden enviar mensajes claros y concisos al consumidor sobre los atributos y ventajas de la marca o producto. Esto establece una gran oportunidad para su recordación.
       .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-15.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
@@ -116,7 +116,7 @@
     Separador
     #t_3_2
     .titulo-segundo.color-primario
-      h2 3.2	Utilización de material P.O.P
+      h2 3.2	Utilización de material POP
     .row
       .col-lg-2
         img(src='@/assets/curso/temas/t3/img-17.png', alt='img1')

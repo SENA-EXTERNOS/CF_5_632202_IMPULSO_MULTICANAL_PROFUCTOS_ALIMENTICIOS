@@ -21,17 +21,17 @@
       .col-lg-2
         img(src='@/assets/curso/temas/t4/img-2.png', alt='img2')
       .col-lg-10.mb-4
-        p.mb-4 El SG-SST (sistema de gestión de seguridad y salud en el trabajo) se encuentra descrito en el Decreto 1072 de 2015, el cual es la compilación de todas las normas, decretos, leyes y resoluciones correspondientes a la seguridad y salud en el trabajo, así como salud ocupacional en Colombia. Anteriormente, estas normas se encontraban de forma individual, lo que generaba confusiones al momento de su implementación. Para la ejecución del SG-SST se hace uso del ciclo PHVA, el cual es un procedimiento lógico y dividido en etapas que permite el mejoramiento continuo de los procesos en la organización (Gómez Cuevas & Naranjo Suárez, 2018) y consta de los siguientes pasos:
+        p.mb-4 El SG-SST (Sistema de Gestión de Seguridad y Salud en el Trabajo) se encuentra descrito en el Decreto 1072 de 2015, el cual es la compilación de todas las normas, decretos, leyes y resoluciones correspondientes a la seguridad y salud en el trabajo, así como salud ocupacional en Colombia. Anteriormente, estas normas se encontraban de forma individual, lo que generaba confusiones al momento de su implementación. Para la ejecución del SG-SST se hace uso del ciclo PHVA, el cual es un procedimiento lógico y dividido en etapas que permite el mejoramiento continuo de los procesos en la organización (Gómez Cuevas & Naranjo Suárez, 2018) y consta de los siguientes pasos:
     .row.mb-5
       .col-md-6.mb-5.mb-md-0
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Planificar:") proceso inicial a través del cual se identifican las actividades que se realizan de forma incorrecta y necesitan de mejoras para garantizar la seguridad y salud de los trabajadores, con el fin de proyectar estrategias de solución. 
+          p(numero="1" titulo="Planificar:") Proceso inicial a través del cual se identifican las actividades que se realizan de forma incorrecta y necesitan de mejoras para garantizar la seguridad y salud de los trabajadores, con el fin de proyectar estrategias de solución. 
           
-          p(numero="2" titulo="Hacer:") se procede con la implementación de las estrategias y posibles soluciones definidas en la etapa anterior. Para esto se involucra a todas las áreas de la compañía, capacitándolas en las nuevas prácticas, así como todo el desarrollo de infraestructura u otro aspecto que deba realizarse.
+          p(numero="2" titulo="Hacer:") Se procede con la implementación de las estrategias y posibles soluciones definidas en la etapa anterior. Para esto se involucra a todas las áreas de la compañía, capacitándolas en las nuevas prácticas, así como todo el desarrollo de infraestructura u otro aspecto que deba realizarse.
           
-          p(numero="3" titulo="Verificar:") es fundamental garantizar la vigilancia y revisión constante de las normas implementadas, para garantizar la seguridad de los colaboradores. Confirmar los resultados que se obtienen con las ideas implementadas, evitando la ejecución de éstas de manera errónea.
+          p(numero="3" titulo="Verificar:") Es fundamental garantizar la vigilancia y revisión constante de las normas implementadas, para garantizar la seguridad de los colaboradores. Confirmar los resultados que se obtienen con las ideas implementadas, evitando la ejecución de éstas de manera errónea.
           
-          p(numero="4" titulo="Actuar:") se realizan las correcciones o adiciones a las estrategias planteadas, para garantizar la mejora continua y actualización en términos de normativa y seguridad de los colaboradores, buscando obtener los mejores beneficios para los empleados. 
+          p(numero="4" titulo="Actuar:") Se realizan las correcciones o adiciones a las estrategias planteadas, para garantizar la mejora continua y actualización en términos de normativa y seguridad de los colaboradores, buscando obtener los mejores beneficios para los empleados. 
       .col-md-6.mb-5.mb-md-0
         img(src='@/assets/curso/temas/t4/img-3.png', alt='img3')
     .row.d-flex.justify-content-center.align-items-center
