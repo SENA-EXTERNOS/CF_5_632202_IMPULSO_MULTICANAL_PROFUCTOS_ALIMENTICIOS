@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis/sintesis.png", alt="sintesis")
+          img(src="@/assets/curso/temas/sintesis/sintesis.svg", alt="sintesis")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis-3.pdf')" target="_blank")
           .anexo__icono

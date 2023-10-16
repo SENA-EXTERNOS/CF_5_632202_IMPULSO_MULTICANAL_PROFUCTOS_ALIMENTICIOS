@@ -77,7 +77,7 @@
               img(src='@/assets/curso/temas/t2/img-4.png', alt='img4')
             li 
               i.fas.fa-check
-              | Potenciación de productos “’imán’.
+              | Potenciación de productos “imán".
             li
               img(src='@/assets/curso/temas/t2/img-4.png', alt='img4')
             li 
@@ -144,10 +144,17 @@
         
       .tarjeta.color-acento-botones.p-3(x="70%" y="60%" numero=" ")
         .h5.mb-2 Generación de estrategias
-        p Para
-        p Evitar el estancamiento
-        p Aumentar ventas
-        P Expansión del producto.
+        p Para:
+        ul.lista-ul--color
+          li
+            i.fas.fa-check
+            | Evitar el estancamiento.     
+          li
+            i.fas.fa-check
+            | Aumentar ventas.
+          li
+            i.fas.fa-check
+            | Expansión del producto.          
 
     #t_2_2
 
@@ -170,19 +177,19 @@
               p Incide en la decisión de compra de los consumidores, por ejemplo, situar el almacén en avenidas que tengan fácil acceso, lugares donde no se dificulte llegar a través de medios de transporte, etc.
             .col-6
               img(src='@/assets/curso/temas/t2/img-14.png', alt='img14')
-        .tarjeta.color-secundario--borde.p-4(titulo="El <i>layout</i> Interior")
+        .tarjeta.color-secundario--borde.p-4(titulo="El <i>layout</i> interior")
           .row
             .col-6
-              h4 El <i>lay out</i> Interior
+              h4 El <i>layout</i> interior
               p Se refiere a la distribución de los elementos al interior del punto de venta.
               p Por ejemplo, cuando se visita un lugar existe una tendencia natural de las personas a realizar el recorrido desde la derecha y circular en dirección opuesta a las manecillas del reloj, por lo tanto, ésta se realiza con los productos destino y cajas registradoras a la izquierda, garantizando así el recorrido total del almacén.
               p Además, se deben considerar otros detalles, por pequeños que parezcan, como la ubicación de los impulsadores, las estanterías, la música, la iluminación, etc. (Martínez Cruz, H., 2018).
             .col-6
               img(src='@/assets/curso/temas/t2/img-15.png', alt='img15')
-        .tarjeta.color-secundario--borde.p-4(titulo="La Fachada")
+        .tarjeta.color-secundario--borde.p-4(titulo="La fachada")
           .row
             .col-6
-              h4 La Fachada
+              h4 La fachada
               p Es la encargada de comunicar un concepto de marca, impactar y crear un distintivo respecto a la competencia. 
             .col-6
               img(src='@/assets/curso/temas/t2/img-16.png', alt='img16')
@@ -308,7 +315,7 @@
         p d. Personales: personajes caracterizados, encargados de animar en el punto de venta. 
       .tarjeta.color-acento-botones.p-3(x="66%" y="73%" numero="")
         .h5.mb-2 Exhibición: 
-        p Exposición del producto mediante <i>souvenirs</i> (Material POP) y degustaciones.
+        p Exposición del producto mediante <i>souvenirs</i> (material POP) y degustaciones.
       .tarjeta.color-acento-botones.p-3(x="33%" y="74%" numero="")
         .h5.mb-2 Ubicación:
         p Ubicar los productos de manera estratégica y accesible. No se debe generar algún tipo de obstáculo, por ejemplo, desplazarse hasta la bodega

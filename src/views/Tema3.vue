@@ -104,7 +104,7 @@
         .col-3.d-block.mx-auto 
           img(src='@/assets/curso/temas/t3/img-28.png' alt='img28')
           .titulo-principal.color-acento-contenido
-          p.mb-5 <b>Espectáculos y showman:</b> crean un gran impacto con el público y llaman la atención fácilmente, sin embargo, puede ser difícil identificar las propiedades del producto y ligarlo con el artículo que se está impulsando. 
+          p.mb-5 #[b Espectáculos y #[em showman]:] crean un gran impacto con el público y llaman la atención fácilmente, sin embargo, puede ser difícil identificar las propiedades del producto y ligarlo con el artículo que se está impulsando. 
         .col-3.d-block.mx-auto 
           img(src='@/assets/curso/temas/t3/img-29.png' alt='img29')
           .titulo-principal.color-acento-contenido
@@ -196,7 +196,7 @@
                       | Encendedores
                     li 
                       i.fas.fa-check
-                      | bolígrafo
+                      | Bolígrafo
                     li 
                       i.fas.fa-check
                       | <i>Mouse pads</i>
@@ -276,7 +276,7 @@
                       | <i>Brochure</i> 
                     li
                       i.fas.fa-check
-                      | <i>Flayer</i>
+                      | <i>Flyer</i>
               
 
     .row.d-flex.justify-content-center.align-items-center

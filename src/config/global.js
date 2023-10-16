@@ -95,7 +95,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Seguridad y Salud en el trabajo',
+        titulo: 'Seguridad y salud en el trabajo',
         desarrolloContenidos: true,
         subMenu: [
           {
