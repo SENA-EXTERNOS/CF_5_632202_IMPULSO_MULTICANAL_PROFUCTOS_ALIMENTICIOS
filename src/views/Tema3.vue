@@ -99,19 +99,19 @@
     p.mb-4 Los beneficios para la empresa al implementar materiales POP son:
 
     PasosB.color-acento-botones.mt-5
-      .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-13.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
+      .row.mx-1(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-13.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
             p.px-5.mt-4.text-bold Incrementar ventas: 
             p.px-5.mt-2 El uso de material POP, ha demostrado impactar positivamente en el proceso de compra de los clientes, porque la mayoría de aquellas espontáneas se dan gracias a su influencia.
       
-      .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-14.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
+      .row.mx-1(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-14.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
             p.px-5.mt-4.mb-0.text-bold Incrementar la imagen del producto: 
             p.px-5.mt-0 Se pueden enviar mensajes claros y concisos al consumidor sobre los atributos y ventajas de la marca o producto. Esto establece una gran oportunidad para su recordación.
       
-      .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-15.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
+      .row.mx-1(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-15.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
             p.px-5.mt-4.mb-0.text-bold Reducir gastos de publicidad: 
