@@ -80,13 +80,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Ventajas del material P.O.P',
+            titulo: 'Ventajas del material POP',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Utilización de material P.O.P',
+            titulo: 'Utilización de material POP',
             hash: 't_2_2',
           },
         ],

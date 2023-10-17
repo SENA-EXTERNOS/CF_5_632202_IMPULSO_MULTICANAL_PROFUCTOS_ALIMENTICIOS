@@ -140,3 +140,51 @@
   background-color: #DEF7FA !important
 .faa
   background-color: #F6F6F6 !important
+
+.img250
+  position: relative
+  width: 400px
+  top: -5rem
+  left: 60%
+
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 10rem
+  & > *
+    position: relative
+  h5 
+    color: #12263F
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 90px)
+    height: 100%
+    background-color: #fffae17a
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last
+  &::before 
+    background-color: #feebde66 !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: 3rem
+  z-index: 1
+  top: 6%
+  @media (max-width: 1000px)
+    display: none

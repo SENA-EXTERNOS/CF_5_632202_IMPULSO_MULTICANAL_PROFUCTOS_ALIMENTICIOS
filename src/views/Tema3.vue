@@ -52,30 +52,45 @@
             p <b>Material POP permanente:</b> garantiza su permanencia en el punto de venta hasta por 3 años, permitiendo la exhibición del producto por un largo periodo de tiempo o su uso en diferentes tendencias.
       h3.mt-3 Funciones del material POP
       p.mt-3.mb-5 Es así como se llega a las funciones distintivas en el uso de material POP y estas deben contener:
-        .card-info
-          div.card_img
-            img(src='@/assets/curso/temas/t3/img-12.svg' alt='img-7')
-          div.card_text.p-0.m-0
-            .row.p-0.m-0
-              .col-12.p-0.m-0.col-md-12.col-sm-12
-                .pl-card-cus(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-8.svg')})`, 'background-repeat': 'no-repeat'}")
-                  p.mb-3.text-bold Información 
-                  p Los carteles y letreros constituyen herramientas informativas del punto de venta. Pueden ser externos e internos, buscando llamar la atención de las personas que transitan el sector y destacando los descuentos o promociones, permitiendo así concretar la venta de forma exitosa. 
-            .row.p-0.m-0
-              .col-12.p-0.m-0.col-md-12.col-sm-12
-                .pl-card-cus(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-9.svg')})`, 'background-repeat': 'no-repeat'}")
-                  p.mb-3.text-bold Recordación 
-                  p En los materiales POP, o <i>displays</i>, suelen utilizarse las marcas o nombres de los productos específicos, para generar recordación a la hora de introducir una nueva y poder crecer en el mercado; se puede hacer con pautas comerciales, radiales, volantes o materiales POP, que ayudan en dicho proceso y garanticen compras futuras, aumentando la tasa de recompra.
-            .row.p-0.m-0
-              .col-12.p-0.m-0.col-md-12.col-sm-12
-                .pl-card-cus(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-10.svg')})`, 'background-repeat': 'no-repeat'}")
-                  p.mb-3.text-bold Persuasión 
-                  p Al momento de la compra se generan dudas. El material POP cuenta con información detallada del producto, destacando las características diferenciadoras y que benefician al cliente; también es una forma de persuadirlo al recalcar y aumentar los atributos.
-            .row.p-0.m-0
-              .col-12.p-0.m-0.col-md-12.col-sm-12
-                .pl-card-cus(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-11.svg')})`, 'background-repeat': 'no-repeat'}")
-                  p.mb-3.text-bold La comercialización 
-                  p.mb-5 Su función principal es apoyar el proceso de comercialización, incrementando las ventas, exhibiendo del producto de forma ingeniosa, recalcando los atributos del mismo, para que el consumidor pueda inspeccionar cuidadosamente el artículo y sentirlo necesario, creando una experiencia, y, así, garantizando la venta.
+
+    .row.justify-content-center.mb-5
+      .col-lg-9.position-relative
+        h3.mb-4.text-center.txt--purpura 
+        .avatar
+          figure
+            img(src="@/assets/curso/temas/t3/img-12.svg", alt="alt").img250
+        .crd.crd--avatarHorizontal.crd--first.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/t3/t3-dec1.png", alt="alt").img100
+            .col
+              h5 Información
+              p Los carteles y letreros constituyen herramientas informativas del punto de venta. Pueden ser externos e internos, buscando llamar la atención de las personas que transitan el sector y destacando los descuentos o promociones, permitiendo así concretar la venta de forma exitosa.
+        .crd.crd--avatarHorizontal.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/t3/t3-dec2.png", alt="alt").img100
+            .col
+              h5 Recordación
+              p En los materiales POP, o displays, suelen utilizarse las marcas o nombres de los productos específicos, para generar recordación a la hora de introducir una nueva y poder crecer en el mercado; se puede hacer con pautas comerciales, radiales, volantes o materiales POP, que ayudan en dicho proceso y garanticen compras futuras, aumentando la tasa de recompra.
+        .crd.crd--avatarHorizontal.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/t3/t3-dec3.png", alt="alt").img100
+            .col
+              h5 Persuasión
+              p Al momento de la compra se generan dudas. El material POP cuenta con información detallada del producto, destacando las características diferenciadoras y que benefician al cliente; también es una forma de persuadirlo al recalcar y aumentar los atributos.
+        .crd.crd--avatarHorizontal.crd--last.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/t3/t3-dec4.png", alt="alt").img100
+            .col
+              h5 La comercialización
+              p Su función principal es apoyar el proceso de comercialización, incrementando las ventas, exhibiendo del producto de forma ingeniosa, recalcando los atributos del mismo, para que el consumidor pueda inspeccionar cuidadosamente el artículo y sentirlo necesario, creando una experiencia, y, así, garantizando la venta.
 
     Separador
     #t_3_1
@@ -87,18 +102,21 @@
       .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-13.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
-                p.px-5.mt-4.text-bold Incrementar ventas: 
-                p.px-5.mt-2 El uso de material POP, ha demostrado impactar positivamente en el proceso de compra de los clientes, porque la mayoría de aquellas espontáneas se dan gracias a su influencia.
+            p.px-5.mt-4.text-bold Incrementar ventas: 
+            p.px-5.mt-2 El uso de material POP, ha demostrado impactar positivamente en el proceso de compra de los clientes, porque la mayoría de aquellas espontáneas se dan gracias a su influencia.
+      
       .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-14.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
-                p.px-5.mt-4.text-bold Incrementar la imagen del producto: 
-                p.px-5.mt-2 Se pueden enviar mensajes claros y concisos al consumidor sobre los atributos y ventajas de la marca o producto. Esto establece una gran oportunidad para su recordación.
+            p.px-5.mt-4.mb-0.text-bold Incrementar la imagen del producto: 
+            p.px-5.mt-0 Se pueden enviar mensajes claros y concisos al consumidor sobre los atributos y ventajas de la marca o producto. Esto establece una gran oportunidad para su recordación.
+      
       .row(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-15.png')})`, 'background-repeat': 'no-repeat',  'height': '540px'}")
         .col-4.d-flex.justify-content-end.align-items-center.offset-7
           .dialog(:style="{'background-image': `url(${require('@/assets/curso/temas/t3/img-16.svg')})`, 'background-repeat': 'no-repeat'}")
-                p.px-5.mt-4.text-bold Reducir gastos de publicidad: 
-                p.px-5.mt-2 No todos los comerciantes tienen los recursos y pueden anunciar las mercancías de su tienda a través de periódicos, radio y TV. El material POP en el punto de venta brinda una ocasión ideal para esto.
+            p.px-5.mt-4.mb-0.text-bold Reducir gastos de publicidad: 
+            p.px-5 No todos los comerciantes tienen los recursos y pueden anunciar las mercancías de su tienda a través de periódicos, radio y TV. El material POP en el punto de venta brinda una ocasión ideal para esto.
+    
     p.mb-5 El material POP es mucho más que publicidad en el punto de venta y una estrategia de <i>merchandising</i>, es un ‘medio indispensable de comunicación’ con los clientes, que dinamiza el proceso de venta y compra. Algunas interacciones o medios que se pueden utilizar son:
       .row.mb-5 
         .col-3.d-block.mx-auto 
